@@ -5,9 +5,13 @@
 Repository: https://github.com/scenariofour/cee5980-ai-model-selection
 Canonical integration branch: main.
 Bootstrap exception: the initial reviewed public import may create and publish main. Subsequent work follows the task-branch and PR workflow below.
-Read README.md, ONBOARDING.md, HANDOFF.md and PRELIMINARY_RESULTS.md before changing the analysis. This is a course project on multiobjective decision framing, model screening, Pareto trade-offs, preference timing and sensitivity. Keep the original normative/constructive question as the interpretive foundation. Do not turn it into building a new AI product or a broad benchmark leaderboard.
+Read LOCAL_WORKSPACE.md when present for this computer’s designated folder. Read README.md, ONBOARDING.md, HANDOFF.md and PRELIMINARY_RESULTS.md before changing the analysis. This is a course project on multiobjective decision framing, model screening, Pareto trade-offs, preference timing and sensitivity. Keep the original normative/constructive question as the interpretive foundation. Do not turn it into building a new AI product or a broad benchmark leaderboard.
 
 You are not alone in this codebase. Preserve others' changes and work only on the current task. Do not silently alter source data, assumptions, thresholds or metric meanings to obtain a desired winner. Existing weighting profiles and thresholds are illustrative; actual group feedback must be supplied by participants.
+
+## One local working folder
+
+Use the local folder designated by the user as the single working checkout for this project on that computer. Continue future tasks there rather than recreating starter copies, alternate project folders or worktrees unless the user requests one. Each teammate has their own checkout on their own computer; GitHub main is the shared integrated version. A distribution ZIP is a snapshot, not a second source to edit. Keep local-only notes, reports and archives in ignored paths.
 
 ## Session start and ownership
 
