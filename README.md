@@ -1,4 +1,4 @@
-# Workflow-specific AI model selection
+# Selecting AI Agent Models Through Normative and Constructive Decision Analysis
 
 A reproducible case study of multiobjective model screening: how task requirements, preferences and constraints change a shortlist drawn from public Berkeley Function-Calling Leaderboard (BFCL) measurements.
 
@@ -16,7 +16,13 @@ A public repository allows anyone to clone and inspect the project. Pushing to i
 
 Use Python 3 with requirements.txt, then run `python analysis.py`; or execute `analysis.ipynb` from this directory. The notebook expects analysis.py and data/ alongside it. No API key, paid inference, model training or external interviews are required for the core analysis. environment_used.json records versions used for the included run.
 
-## Included preliminary work
+## Decision and current stage
+
+The decision is which model configurations to shortlist for a proposed task-management agent under two workflows: structured single-turn calls and missing-parameter clarification. We evaluate workflow score, irrelevant-call avoidance, full-benchmark cost and P95 latency. The outputs show trade-offs and conditional recommendations under specified preferences and requirements.
+
+The quantitative baseline is complete. Genuine group preference review, alternative value-scale checks and final interpretation are next. All current weights and thresholds are illustrative. The normative–constructive comparison connects the explicit decision model to later feedback on objectives, requirements and preferences; the review has not yet occurred.
+
+## Completed data analysis
 
 - Frozen source snapshot and SHA256 manifest: 109 configurations, 66 retained native-function-calling configurations under recorded rules.
 - Consequence matrices for structured single-turn and missing-parameter multi-turn workflows.
@@ -25,7 +31,9 @@ Use Python 3 with requirements.txt, then run `python analysis.py`; or execute `a
 - Sensitivity over 1,771 weight vectors and 1,071 requirement pairs per workflow.
 - Three figures, descriptive summaries, machine-readable results and an executed notebook.
 
-Read PRELIMINARY_RESULTS.md and results/summary.json for results and assumptions. Counts are initial results, not invariants to preserve after justified model changes.
+The initial requirement screen leaves 14 structured-call configurations feasible and no clarification configurations feasible. This is a conditional result under the documented screen, not a conclusion that clarification models are unusable.
+
+Inspect the [preliminary findings](PRELIMINARY_RESULTS.md), [numerical summary](results/summary.json), [eligibility audit](results/eligibility_audit.csv), [weight sensitivity](results/preference_grid_selection_shares.csv) and [requirement sensitivity](results/threshold_grid.csv). The [trade-off figure](figures/01_pareto_tradeoffs.png), [weight-sensitivity figure](figures/02_preference_sensitivity.png) and [requirement-sensitivity figure](figures/03_requirement_sensitivity.png) visualize the computed results. Counts are initial results, not invariants to preserve after justified model changes.
 
 ## Files
 

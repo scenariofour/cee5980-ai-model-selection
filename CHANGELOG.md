@@ -1,5 +1,9 @@
 # Change log
 
+## Clarify completed analysis and reporting
+
+Updated README with the decision case, completed quantitative work, direct result links and remaining preference review. Independently checked the recorded numerical results. Reviewed the private progress update against its assignment prompt and verified one-page local and native layouts. No analysis code, data or numerical outputs changed.
+
 ## Single local workspace
 
 Documented one designated working checkout per computer. Added exclusions for local notes, report exports and archived drafting materials. Consolidation retained source history and verified identical files before removing a redundant project copy. Analysis and numerical results are unchanged.

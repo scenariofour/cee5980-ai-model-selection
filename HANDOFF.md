@@ -38,6 +38,13 @@ No individual ownership is assigned here yet. At the start of a task, state the 
 - Next: open the designated folder for future tasks; fetch integrated changes and select the next analysis task. Teammates continue with their own local copies and PRs.
 - Analysis: no code, input data or numerical results changed.
 
+### 2026-10-21 — work/scenariofour/update-readiness
+
+- Files: README.md, HANDOFF.md, CHANGELOG.md; private status-report edits remain outside Git.
+- Completed: clarified the decision, completed analyses, result-file links and remaining preference review in README. Revised the private one-page update to address amendments, resources, progress against the original plan and next milestones. Applied localized Humanizer prose editing while preserving analytical claims.
+- Validation: independently rechecked source integrity, 109/66 configuration counts, Pareto counts of 30/22, 14/0 feasible configurations and 1,771/1,071 sensitivity-grid sizes. Verified report content against computed results; rendered both local and native document versions as one page. Public links and private exclusions checked. No analytical results changed.
+- Next: finish participant preference review and the bounded sensitivity refinements listed above. The owner will complete remaining private submission identity fields; each member uses their own submission copy.
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.
