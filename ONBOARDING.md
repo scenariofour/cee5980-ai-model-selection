@@ -21,3 +21,12 @@ Read PRELIMINARY_RESULTS.md, results/summary.json and analysis.py. All current w
 5. Use verified results in the private course report, with numbered figures and references and accurate technical contributions.
 
 Keep the project manageable and primarily reproducible from public data. Each member owns analytical work and cross-checks another part. Preserve others' changes and use AGENTS.md for Git synchronization. Private submission requirements and shared-document URLs are not published in this repository.
+
+## Starting from the team ZIP
+
+1. Download and extract AI_Model_Selection_Starter.zip into a normal local folder, then open the extracted AI_Model_Selection_Starter folder as a project in Codex. The ZIP is a snapshot; it does not include .git or automatically track later updates.
+2. Ask Codex to read AGENTS.md, ONBOARDING.md and HANDOFF.md, connect this folder to the canonical repository, fetch current work and state the next task before editing. See README.md for a ready-to-paste prompt.
+3. Agent setup when .git is absent: clone the canonical repository into a new temporary sibling directory, verify its origin URL, then move only that clone's .git directory into this folder if .git is still absent. A normal clone supplies the matching index and history while leaving every extracted file untouched. Inspect git status and the diff before continuing. Preserve local/private files and treat any differences as existing work; do not discard or publish them indiscriminately. Do not use git init followed by an unrelated root commit. Remove only the disposable clone you created after the transfer succeeds.
+4. If .git already exists, inspect it and use its history; do not replace it. Follow AGENTS.md for task branches and merging canonical updates while preserving local edits.
+5. Sign in to your own GitHub account when publishing changes. Codex can use a fork and PR if you lack canonical write access. GitHub login is not needed just to run the local analysis.
+6. At task completion, Codex updates HANDOFF.md, validates changes and pushes a task branch with a PR. Once the PR is reviewed and merged, others fetch it to receive the integrated handoff and work.

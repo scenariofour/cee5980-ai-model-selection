@@ -5,26 +5,32 @@
 Repository: https://github.com/scenariofour/cee5980-ai-model-selection
 Canonical integration branch: main.
 Bootstrap exception: the initial reviewed public import may create and publish main. Subsequent work follows the task-branch and PR workflow below.
-Read README.md, ONBOARDING.md and PRELIMINARY_RESULTS.md before changing the analysis. This is a course project on multiobjective decision framing, model screening, Pareto trade-offs, preference timing and sensitivity. Keep the original normative/constructive question as the interpretive foundation. Do not turn it into building a new AI product or a broad benchmark leaderboard.
+Read README.md, ONBOARDING.md, HANDOFF.md and PRELIMINARY_RESULTS.md before changing the analysis. This is a course project on multiobjective decision framing, model screening, Pareto trade-offs, preference timing and sensitivity. Keep the original normative/constructive question as the interpretive foundation. Do not turn it into building a new AI product or a broad benchmark leaderboard.
 
 You are not alone in this codebase. Preserve others' changes and work only on the current task. Do not silently alter source data, assumptions, thresholds or metric meanings to obtain a desired winner. Existing weighting profiles and thresholds are illustrative; actual group feedback must be supplied by participants.
 
 ## Session start and ownership
 
-1. Inspect git status, current branch, remotes and recent commits. Never reset, clean, stash or overwrite pre-existing work to obtain a clean checkout.
+1. If this folder came from a ZIP and has no .git, follow ONBOARDING.md ZIP setup first, preserving all local files. Then inspect git status, current branch, remotes and recent commits. Never reset, clean, stash or overwrite pre-existing work to obtain a clean checkout.
 2. Fetch the canonical repository before beginning. Update a clean local main only by fast-forward. Work on a task branch named work/<github-login>/<short-topic>, not on main. Reuse an existing branch only for the same unfinished task.
 3. State the files owned by this task. Keep one active editor for analysis.py. Data preparation, decision models and sensitivity interpretation can be separate tasks, but changes to shared code must be coordinated through PRs. Prefer task-specific modules or analysis notes only when the task warrants them; do not preemptively refactor.
 4. Do not edit a shared Google Doc by replacing its entire contents. Read the relevant section and current revision; make scoped edits so collaborators' changes remain intact. The private TEAM_LINKS.md, when present, contains the shared document URL.
 
 ## Complete each coding task and synchronize automatically
 
-When the requested task is complete, run the relevant checks, inspect the diff and commit only files belonging to this task. Do not use git add . or git add -A indiscriminately. Update CHANGELOG.md with the substantive change, assumptions and validation. Do not include another person's uncommitted work.
+When the requested task is complete, run the relevant checks, inspect the diff and commit only files belonging to this task. Do not use git add . or git add -A indiscriminately. Update CHANGELOG.md with the substantive change, assumptions and validation. Update HANDOFF.md with the completed work, checks, unresolved issues and the next concrete step before committing. Do not include another person's uncommitted work.
 
 Before pushing, fetch canonical main again. If it has advanced, integrate it into your task branch using a normal merge, preserving published history. Resolve only conflicts that can be understood and verified. If resolution is ambiguous, stop that merge and report the conflicting files; continue independent work where possible. Never claim that fetching or pushing guarantees the absence of semantic conflicts.
 
 Push your task branch automatically and open or update a PR against canonical main using the available GitHub tool or gh CLI. The PR must describe the final change, validation and any modified assumptions. Check its conflict/mergeability status after the remote update and report the branch, commit and PR URL. Do not force-push, delete someone else's branch, push directly to main or auto-merge. A maintainer can ask Codex to integrate reviewed PRs; no teammate needs to operate Git commands manually.
 
 If the authenticated user cannot push to the canonical repo, use that user's existing fork, or create a fork under that user's account, push the task branch there and open a PR to canonical main. Keep the canonical remote available; do not overwrite another user's authentication or share access tokens. If GitHub authentication is unavailable, keep the verified work locally and report the single setup step required; do not invent a successful push.
+
+## Shared handoff
+
+HANDOFF.md is the public shared context for the next person or agent. Read it at session start and after integrating canonical main. At task completion, append a dated entry under the current branch name: files changed, work actually completed, validation actually run, open questions/blockers and the next actionable task. Include a PR link when known; Git history remains the source for exact commit identifiers. Do not invent progress, assignments, group feedback or completed checks.
+
+Preserve other contributors' entries. Add your own entry rather than rewriting the whole document; update the shared baseline only after an integrated change justifies it. Keep entries brief and reconcile concurrent edits during PR review. A branch's entry becomes shared canonical context only after its PR is merged; fetch before relying on it. This document is a handoff, not a lock or a live synchronization service. Keep personal contribution percentages, private course material and Google Doc access links outside it.
 
 ## Checks and generated files
 
