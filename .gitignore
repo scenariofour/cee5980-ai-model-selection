@@ -1,0 +1,19 @@
+# Private course/team materials
+reference/
+GROUP_DECISION_LOG.csv
+START_HERE_PROMPT.md
+TEAM_LINKS.md
+*.docx
+*.pdf
+*.zip
+
+# Local environments and credentials
+.env
+.env.*
+.venv/
+venv/
+work/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store

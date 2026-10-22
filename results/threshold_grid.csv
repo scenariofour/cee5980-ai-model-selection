@@ -1,0 +1,2143 @@
+workflow,performance_min,avoidance_min,feasible_count,balanced_choice
+structured,0,0,33,Gemini-2.5-Flash (FC)
+structured,0,5,33,Gemini-2.5-Flash (FC)
+structured,0,10,33,Gemini-2.5-Flash (FC)
+structured,0,15,33,Gemini-2.5-Flash (FC)
+structured,0,20,33,Gemini-2.5-Flash (FC)
+structured,0,25,33,Gemini-2.5-Flash (FC)
+structured,0,30,33,Gemini-2.5-Flash (FC)
+structured,0,35,33,Gemini-2.5-Flash (FC)
+structured,0,40,33,Gemini-2.5-Flash (FC)
+structured,0,45,33,Gemini-2.5-Flash (FC)
+structured,0,50,33,Gemini-2.5-Flash (FC)
+structured,0,55,32,Gemini-2.5-Flash (FC)
+structured,0,60,32,Gemini-2.5-Flash (FC)
+structured,0,65,28,Gemini-2.5-Flash (FC)
+structured,0,70,27,Gemini-2.5-Flash (FC)
+structured,0,75,24,Gemini-2.5-Flash (FC)
+structured,0,80,20,Gemini-2.5-Flash (FC)
+structured,0,85,11,Gemini-2.5-Flash (FC)
+structured,0,90,5,Gemini-2.5-Flash (FC)
+structured,0,95,1,Llama-3.1-Nemotron-Ultra-253B-v1 (FC)
+structured,0,100,1,Llama-3.1-Nemotron-Ultra-253B-v1 (FC)
+structured,2,0,32,Gemini-2.5-Flash (FC)
+structured,2,5,32,Gemini-2.5-Flash (FC)
+structured,2,10,32,Gemini-2.5-Flash (FC)
+structured,2,15,32,Gemini-2.5-Flash (FC)
+structured,2,20,32,Gemini-2.5-Flash (FC)
+structured,2,25,32,Gemini-2.5-Flash (FC)
+structured,2,30,32,Gemini-2.5-Flash (FC)
+structured,2,35,32,Gemini-2.5-Flash (FC)
+structured,2,40,32,Gemini-2.5-Flash (FC)
+structured,2,45,32,Gemini-2.5-Flash (FC)
+structured,2,50,32,Gemini-2.5-Flash (FC)
+structured,2,55,31,Gemini-2.5-Flash (FC)
+structured,2,60,31,Gemini-2.5-Flash (FC)
+structured,2,65,27,Gemini-2.5-Flash (FC)
+structured,2,70,26,Gemini-2.5-Flash (FC)
+structured,2,75,23,Gemini-2.5-Flash (FC)
+structured,2,80,19,Gemini-2.5-Flash (FC)
+structured,2,85,10,Gemini-2.5-Flash (FC)
+structured,2,90,4,Gemini-2.5-Flash (FC)
+structured,2,95,0,NONE
+structured,2,100,0,NONE
+structured,4,0,31,Gemini-2.5-Flash (FC)
+structured,4,5,31,Gemini-2.5-Flash (FC)
+structured,4,10,31,Gemini-2.5-Flash (FC)
+structured,4,15,31,Gemini-2.5-Flash (FC)
+structured,4,20,31,Gemini-2.5-Flash (FC)
+structured,4,25,31,Gemini-2.5-Flash (FC)
+structured,4,30,31,Gemini-2.5-Flash (FC)
+structured,4,35,31,Gemini-2.5-Flash (FC)
+structured,4,40,31,Gemini-2.5-Flash (FC)
+structured,4,45,31,Gemini-2.5-Flash (FC)
+structured,4,50,31,Gemini-2.5-Flash (FC)
+structured,4,55,30,Gemini-2.5-Flash (FC)
+structured,4,60,30,Gemini-2.5-Flash (FC)
+structured,4,65,26,Gemini-2.5-Flash (FC)
+structured,4,70,25,Gemini-2.5-Flash (FC)
+structured,4,75,22,Gemini-2.5-Flash (FC)
+structured,4,80,18,Gemini-2.5-Flash (FC)
+structured,4,85,9,Gemini-2.5-Flash (FC)
+structured,4,90,4,Gemini-2.5-Flash (FC)
+structured,4,95,0,NONE
+structured,4,100,0,NONE
+structured,6,0,31,Gemini-2.5-Flash (FC)
+structured,6,5,31,Gemini-2.5-Flash (FC)
+structured,6,10,31,Gemini-2.5-Flash (FC)
+structured,6,15,31,Gemini-2.5-Flash (FC)
+structured,6,20,31,Gemini-2.5-Flash (FC)
+structured,6,25,31,Gemini-2.5-Flash (FC)
+structured,6,30,31,Gemini-2.5-Flash (FC)
+structured,6,35,31,Gemini-2.5-Flash (FC)
+structured,6,40,31,Gemini-2.5-Flash (FC)
+structured,6,45,31,Gemini-2.5-Flash (FC)
+structured,6,50,31,Gemini-2.5-Flash (FC)
+structured,6,55,30,Gemini-2.5-Flash (FC)
+structured,6,60,30,Gemini-2.5-Flash (FC)
+structured,6,65,26,Gemini-2.5-Flash (FC)
+structured,6,70,25,Gemini-2.5-Flash (FC)
+structured,6,75,22,Gemini-2.5-Flash (FC)
+structured,6,80,18,Gemini-2.5-Flash (FC)
+structured,6,85,9,Gemini-2.5-Flash (FC)
+structured,6,90,4,Gemini-2.5-Flash (FC)
+structured,6,95,0,NONE
+structured,6,100,0,NONE
+structured,8,0,31,Gemini-2.5-Flash (FC)
+structured,8,5,31,Gemini-2.5-Flash (FC)
+structured,8,10,31,Gemini-2.5-Flash (FC)
+structured,8,15,31,Gemini-2.5-Flash (FC)
+structured,8,20,31,Gemini-2.5-Flash (FC)
+structured,8,25,31,Gemini-2.5-Flash (FC)
+structured,8,30,31,Gemini-2.5-Flash (FC)
+structured,8,35,31,Gemini-2.5-Flash (FC)
+structured,8,40,31,Gemini-2.5-Flash (FC)
+structured,8,45,31,Gemini-2.5-Flash (FC)
+structured,8,50,31,Gemini-2.5-Flash (FC)
+structured,8,55,30,Gemini-2.5-Flash (FC)
+structured,8,60,30,Gemini-2.5-Flash (FC)
+structured,8,65,26,Gemini-2.5-Flash (FC)
+structured,8,70,25,Gemini-2.5-Flash (FC)
+structured,8,75,22,Gemini-2.5-Flash (FC)
+structured,8,80,18,Gemini-2.5-Flash (FC)
+structured,8,85,9,Gemini-2.5-Flash (FC)
+structured,8,90,4,Gemini-2.5-Flash (FC)
+structured,8,95,0,NONE
+structured,8,100,0,NONE
+structured,10,0,31,Gemini-2.5-Flash (FC)
+structured,10,5,31,Gemini-2.5-Flash (FC)
+structured,10,10,31,Gemini-2.5-Flash (FC)
+structured,10,15,31,Gemini-2.5-Flash (FC)
+structured,10,20,31,Gemini-2.5-Flash (FC)
+structured,10,25,31,Gemini-2.5-Flash (FC)
+structured,10,30,31,Gemini-2.5-Flash (FC)
+structured,10,35,31,Gemini-2.5-Flash (FC)
+structured,10,40,31,Gemini-2.5-Flash (FC)
+structured,10,45,31,Gemini-2.5-Flash (FC)
+structured,10,50,31,Gemini-2.5-Flash (FC)
+structured,10,55,30,Gemini-2.5-Flash (FC)
+structured,10,60,30,Gemini-2.5-Flash (FC)
+structured,10,65,26,Gemini-2.5-Flash (FC)
+structured,10,70,25,Gemini-2.5-Flash (FC)
+structured,10,75,22,Gemini-2.5-Flash (FC)
+structured,10,80,18,Gemini-2.5-Flash (FC)
+structured,10,85,9,Gemini-2.5-Flash (FC)
+structured,10,90,4,Gemini-2.5-Flash (FC)
+structured,10,95,0,NONE
+structured,10,100,0,NONE
+structured,12,0,31,Gemini-2.5-Flash (FC)
+structured,12,5,31,Gemini-2.5-Flash (FC)
+structured,12,10,31,Gemini-2.5-Flash (FC)
+structured,12,15,31,Gemini-2.5-Flash (FC)
+structured,12,20,31,Gemini-2.5-Flash (FC)
+structured,12,25,31,Gemini-2.5-Flash (FC)
+structured,12,30,31,Gemini-2.5-Flash (FC)
+structured,12,35,31,Gemini-2.5-Flash (FC)
+structured,12,40,31,Gemini-2.5-Flash (FC)
+structured,12,45,31,Gemini-2.5-Flash (FC)
+structured,12,50,31,Gemini-2.5-Flash (FC)
+structured,12,55,30,Gemini-2.5-Flash (FC)
+structured,12,60,30,Gemini-2.5-Flash (FC)
+structured,12,65,26,Gemini-2.5-Flash (FC)
+structured,12,70,25,Gemini-2.5-Flash (FC)
+structured,12,75,22,Gemini-2.5-Flash (FC)
+structured,12,80,18,Gemini-2.5-Flash (FC)
+structured,12,85,9,Gemini-2.5-Flash (FC)
+structured,12,90,4,Gemini-2.5-Flash (FC)
+structured,12,95,0,NONE
+structured,12,100,0,NONE
+structured,14,0,31,Gemini-2.5-Flash (FC)
+structured,14,5,31,Gemini-2.5-Flash (FC)
+structured,14,10,31,Gemini-2.5-Flash (FC)
+structured,14,15,31,Gemini-2.5-Flash (FC)
+structured,14,20,31,Gemini-2.5-Flash (FC)
+structured,14,25,31,Gemini-2.5-Flash (FC)
+structured,14,30,31,Gemini-2.5-Flash (FC)
+structured,14,35,31,Gemini-2.5-Flash (FC)
+structured,14,40,31,Gemini-2.5-Flash (FC)
+structured,14,45,31,Gemini-2.5-Flash (FC)
+structured,14,50,31,Gemini-2.5-Flash (FC)
+structured,14,55,30,Gemini-2.5-Flash (FC)
+structured,14,60,30,Gemini-2.5-Flash (FC)
+structured,14,65,26,Gemini-2.5-Flash (FC)
+structured,14,70,25,Gemini-2.5-Flash (FC)
+structured,14,75,22,Gemini-2.5-Flash (FC)
+structured,14,80,18,Gemini-2.5-Flash (FC)
+structured,14,85,9,Gemini-2.5-Flash (FC)
+structured,14,90,4,Gemini-2.5-Flash (FC)
+structured,14,95,0,NONE
+structured,14,100,0,NONE
+structured,16,0,31,Gemini-2.5-Flash (FC)
+structured,16,5,31,Gemini-2.5-Flash (FC)
+structured,16,10,31,Gemini-2.5-Flash (FC)
+structured,16,15,31,Gemini-2.5-Flash (FC)
+structured,16,20,31,Gemini-2.5-Flash (FC)
+structured,16,25,31,Gemini-2.5-Flash (FC)
+structured,16,30,31,Gemini-2.5-Flash (FC)
+structured,16,35,31,Gemini-2.5-Flash (FC)
+structured,16,40,31,Gemini-2.5-Flash (FC)
+structured,16,45,31,Gemini-2.5-Flash (FC)
+structured,16,50,31,Gemini-2.5-Flash (FC)
+structured,16,55,30,Gemini-2.5-Flash (FC)
+structured,16,60,30,Gemini-2.5-Flash (FC)
+structured,16,65,26,Gemini-2.5-Flash (FC)
+structured,16,70,25,Gemini-2.5-Flash (FC)
+structured,16,75,22,Gemini-2.5-Flash (FC)
+structured,16,80,18,Gemini-2.5-Flash (FC)
+structured,16,85,9,Gemini-2.5-Flash (FC)
+structured,16,90,4,Gemini-2.5-Flash (FC)
+structured,16,95,0,NONE
+structured,16,100,0,NONE
+structured,18,0,31,Gemini-2.5-Flash (FC)
+structured,18,5,31,Gemini-2.5-Flash (FC)
+structured,18,10,31,Gemini-2.5-Flash (FC)
+structured,18,15,31,Gemini-2.5-Flash (FC)
+structured,18,20,31,Gemini-2.5-Flash (FC)
+structured,18,25,31,Gemini-2.5-Flash (FC)
+structured,18,30,31,Gemini-2.5-Flash (FC)
+structured,18,35,31,Gemini-2.5-Flash (FC)
+structured,18,40,31,Gemini-2.5-Flash (FC)
+structured,18,45,31,Gemini-2.5-Flash (FC)
+structured,18,50,31,Gemini-2.5-Flash (FC)
+structured,18,55,30,Gemini-2.5-Flash (FC)
+structured,18,60,30,Gemini-2.5-Flash (FC)
+structured,18,65,26,Gemini-2.5-Flash (FC)
+structured,18,70,25,Gemini-2.5-Flash (FC)
+structured,18,75,22,Gemini-2.5-Flash (FC)
+structured,18,80,18,Gemini-2.5-Flash (FC)
+structured,18,85,9,Gemini-2.5-Flash (FC)
+structured,18,90,4,Gemini-2.5-Flash (FC)
+structured,18,95,0,NONE
+structured,18,100,0,NONE
+structured,20,0,31,Gemini-2.5-Flash (FC)
+structured,20,5,31,Gemini-2.5-Flash (FC)
+structured,20,10,31,Gemini-2.5-Flash (FC)
+structured,20,15,31,Gemini-2.5-Flash (FC)
+structured,20,20,31,Gemini-2.5-Flash (FC)
+structured,20,25,31,Gemini-2.5-Flash (FC)
+structured,20,30,31,Gemini-2.5-Flash (FC)
+structured,20,35,31,Gemini-2.5-Flash (FC)
+structured,20,40,31,Gemini-2.5-Flash (FC)
+structured,20,45,31,Gemini-2.5-Flash (FC)
+structured,20,50,31,Gemini-2.5-Flash (FC)
+structured,20,55,30,Gemini-2.5-Flash (FC)
+structured,20,60,30,Gemini-2.5-Flash (FC)
+structured,20,65,26,Gemini-2.5-Flash (FC)
+structured,20,70,25,Gemini-2.5-Flash (FC)
+structured,20,75,22,Gemini-2.5-Flash (FC)
+structured,20,80,18,Gemini-2.5-Flash (FC)
+structured,20,85,9,Gemini-2.5-Flash (FC)
+structured,20,90,4,Gemini-2.5-Flash (FC)
+structured,20,95,0,NONE
+structured,20,100,0,NONE
+structured,22,0,31,Gemini-2.5-Flash (FC)
+structured,22,5,31,Gemini-2.5-Flash (FC)
+structured,22,10,31,Gemini-2.5-Flash (FC)
+structured,22,15,31,Gemini-2.5-Flash (FC)
+structured,22,20,31,Gemini-2.5-Flash (FC)
+structured,22,25,31,Gemini-2.5-Flash (FC)
+structured,22,30,31,Gemini-2.5-Flash (FC)
+structured,22,35,31,Gemini-2.5-Flash (FC)
+structured,22,40,31,Gemini-2.5-Flash (FC)
+structured,22,45,31,Gemini-2.5-Flash (FC)
+structured,22,50,31,Gemini-2.5-Flash (FC)
+structured,22,55,30,Gemini-2.5-Flash (FC)
+structured,22,60,30,Gemini-2.5-Flash (FC)
+structured,22,65,26,Gemini-2.5-Flash (FC)
+structured,22,70,25,Gemini-2.5-Flash (FC)
+structured,22,75,22,Gemini-2.5-Flash (FC)
+structured,22,80,18,Gemini-2.5-Flash (FC)
+structured,22,85,9,Gemini-2.5-Flash (FC)
+structured,22,90,4,Gemini-2.5-Flash (FC)
+structured,22,95,0,NONE
+structured,22,100,0,NONE
+structured,24,0,31,Gemini-2.5-Flash (FC)
+structured,24,5,31,Gemini-2.5-Flash (FC)
+structured,24,10,31,Gemini-2.5-Flash (FC)
+structured,24,15,31,Gemini-2.5-Flash (FC)
+structured,24,20,31,Gemini-2.5-Flash (FC)
+structured,24,25,31,Gemini-2.5-Flash (FC)
+structured,24,30,31,Gemini-2.5-Flash (FC)
+structured,24,35,31,Gemini-2.5-Flash (FC)
+structured,24,40,31,Gemini-2.5-Flash (FC)
+structured,24,45,31,Gemini-2.5-Flash (FC)
+structured,24,50,31,Gemini-2.5-Flash (FC)
+structured,24,55,30,Gemini-2.5-Flash (FC)
+structured,24,60,30,Gemini-2.5-Flash (FC)
+structured,24,65,26,Gemini-2.5-Flash (FC)
+structured,24,70,25,Gemini-2.5-Flash (FC)
+structured,24,75,22,Gemini-2.5-Flash (FC)
+structured,24,80,18,Gemini-2.5-Flash (FC)
+structured,24,85,9,Gemini-2.5-Flash (FC)
+structured,24,90,4,Gemini-2.5-Flash (FC)
+structured,24,95,0,NONE
+structured,24,100,0,NONE
+structured,26,0,31,Gemini-2.5-Flash (FC)
+structured,26,5,31,Gemini-2.5-Flash (FC)
+structured,26,10,31,Gemini-2.5-Flash (FC)
+structured,26,15,31,Gemini-2.5-Flash (FC)
+structured,26,20,31,Gemini-2.5-Flash (FC)
+structured,26,25,31,Gemini-2.5-Flash (FC)
+structured,26,30,31,Gemini-2.5-Flash (FC)
+structured,26,35,31,Gemini-2.5-Flash (FC)
+structured,26,40,31,Gemini-2.5-Flash (FC)
+structured,26,45,31,Gemini-2.5-Flash (FC)
+structured,26,50,31,Gemini-2.5-Flash (FC)
+structured,26,55,30,Gemini-2.5-Flash (FC)
+structured,26,60,30,Gemini-2.5-Flash (FC)
+structured,26,65,26,Gemini-2.5-Flash (FC)
+structured,26,70,25,Gemini-2.5-Flash (FC)
+structured,26,75,22,Gemini-2.5-Flash (FC)
+structured,26,80,18,Gemini-2.5-Flash (FC)
+structured,26,85,9,Gemini-2.5-Flash (FC)
+structured,26,90,4,Gemini-2.5-Flash (FC)
+structured,26,95,0,NONE
+structured,26,100,0,NONE
+structured,28,0,31,Gemini-2.5-Flash (FC)
+structured,28,5,31,Gemini-2.5-Flash (FC)
+structured,28,10,31,Gemini-2.5-Flash (FC)
+structured,28,15,31,Gemini-2.5-Flash (FC)
+structured,28,20,31,Gemini-2.5-Flash (FC)
+structured,28,25,31,Gemini-2.5-Flash (FC)
+structured,28,30,31,Gemini-2.5-Flash (FC)
+structured,28,35,31,Gemini-2.5-Flash (FC)
+structured,28,40,31,Gemini-2.5-Flash (FC)
+structured,28,45,31,Gemini-2.5-Flash (FC)
+structured,28,50,31,Gemini-2.5-Flash (FC)
+structured,28,55,30,Gemini-2.5-Flash (FC)
+structured,28,60,30,Gemini-2.5-Flash (FC)
+structured,28,65,26,Gemini-2.5-Flash (FC)
+structured,28,70,25,Gemini-2.5-Flash (FC)
+structured,28,75,22,Gemini-2.5-Flash (FC)
+structured,28,80,18,Gemini-2.5-Flash (FC)
+structured,28,85,9,Gemini-2.5-Flash (FC)
+structured,28,90,4,Gemini-2.5-Flash (FC)
+structured,28,95,0,NONE
+structured,28,100,0,NONE
+structured,30,0,31,Gemini-2.5-Flash (FC)
+structured,30,5,31,Gemini-2.5-Flash (FC)
+structured,30,10,31,Gemini-2.5-Flash (FC)
+structured,30,15,31,Gemini-2.5-Flash (FC)
+structured,30,20,31,Gemini-2.5-Flash (FC)
+structured,30,25,31,Gemini-2.5-Flash (FC)
+structured,30,30,31,Gemini-2.5-Flash (FC)
+structured,30,35,31,Gemini-2.5-Flash (FC)
+structured,30,40,31,Gemini-2.5-Flash (FC)
+structured,30,45,31,Gemini-2.5-Flash (FC)
+structured,30,50,31,Gemini-2.5-Flash (FC)
+structured,30,55,30,Gemini-2.5-Flash (FC)
+structured,30,60,30,Gemini-2.5-Flash (FC)
+structured,30,65,26,Gemini-2.5-Flash (FC)
+structured,30,70,25,Gemini-2.5-Flash (FC)
+structured,30,75,22,Gemini-2.5-Flash (FC)
+structured,30,80,18,Gemini-2.5-Flash (FC)
+structured,30,85,9,Gemini-2.5-Flash (FC)
+structured,30,90,4,Gemini-2.5-Flash (FC)
+structured,30,95,0,NONE
+structured,30,100,0,NONE
+structured,32,0,31,Gemini-2.5-Flash (FC)
+structured,32,5,31,Gemini-2.5-Flash (FC)
+structured,32,10,31,Gemini-2.5-Flash (FC)
+structured,32,15,31,Gemini-2.5-Flash (FC)
+structured,32,20,31,Gemini-2.5-Flash (FC)
+structured,32,25,31,Gemini-2.5-Flash (FC)
+structured,32,30,31,Gemini-2.5-Flash (FC)
+structured,32,35,31,Gemini-2.5-Flash (FC)
+structured,32,40,31,Gemini-2.5-Flash (FC)
+structured,32,45,31,Gemini-2.5-Flash (FC)
+structured,32,50,31,Gemini-2.5-Flash (FC)
+structured,32,55,30,Gemini-2.5-Flash (FC)
+structured,32,60,30,Gemini-2.5-Flash (FC)
+structured,32,65,26,Gemini-2.5-Flash (FC)
+structured,32,70,25,Gemini-2.5-Flash (FC)
+structured,32,75,22,Gemini-2.5-Flash (FC)
+structured,32,80,18,Gemini-2.5-Flash (FC)
+structured,32,85,9,Gemini-2.5-Flash (FC)
+structured,32,90,4,Gemini-2.5-Flash (FC)
+structured,32,95,0,NONE
+structured,32,100,0,NONE
+structured,34,0,31,Gemini-2.5-Flash (FC)
+structured,34,5,31,Gemini-2.5-Flash (FC)
+structured,34,10,31,Gemini-2.5-Flash (FC)
+structured,34,15,31,Gemini-2.5-Flash (FC)
+structured,34,20,31,Gemini-2.5-Flash (FC)
+structured,34,25,31,Gemini-2.5-Flash (FC)
+structured,34,30,31,Gemini-2.5-Flash (FC)
+structured,34,35,31,Gemini-2.5-Flash (FC)
+structured,34,40,31,Gemini-2.5-Flash (FC)
+structured,34,45,31,Gemini-2.5-Flash (FC)
+structured,34,50,31,Gemini-2.5-Flash (FC)
+structured,34,55,30,Gemini-2.5-Flash (FC)
+structured,34,60,30,Gemini-2.5-Flash (FC)
+structured,34,65,26,Gemini-2.5-Flash (FC)
+structured,34,70,25,Gemini-2.5-Flash (FC)
+structured,34,75,22,Gemini-2.5-Flash (FC)
+structured,34,80,18,Gemini-2.5-Flash (FC)
+structured,34,85,9,Gemini-2.5-Flash (FC)
+structured,34,90,4,Gemini-2.5-Flash (FC)
+structured,34,95,0,NONE
+structured,34,100,0,NONE
+structured,36,0,31,Gemini-2.5-Flash (FC)
+structured,36,5,31,Gemini-2.5-Flash (FC)
+structured,36,10,31,Gemini-2.5-Flash (FC)
+structured,36,15,31,Gemini-2.5-Flash (FC)
+structured,36,20,31,Gemini-2.5-Flash (FC)
+structured,36,25,31,Gemini-2.5-Flash (FC)
+structured,36,30,31,Gemini-2.5-Flash (FC)
+structured,36,35,31,Gemini-2.5-Flash (FC)
+structured,36,40,31,Gemini-2.5-Flash (FC)
+structured,36,45,31,Gemini-2.5-Flash (FC)
+structured,36,50,31,Gemini-2.5-Flash (FC)
+structured,36,55,30,Gemini-2.5-Flash (FC)
+structured,36,60,30,Gemini-2.5-Flash (FC)
+structured,36,65,26,Gemini-2.5-Flash (FC)
+structured,36,70,25,Gemini-2.5-Flash (FC)
+structured,36,75,22,Gemini-2.5-Flash (FC)
+structured,36,80,18,Gemini-2.5-Flash (FC)
+structured,36,85,9,Gemini-2.5-Flash (FC)
+structured,36,90,4,Gemini-2.5-Flash (FC)
+structured,36,95,0,NONE
+structured,36,100,0,NONE
+structured,38,0,30,Gemini-2.5-Flash (FC)
+structured,38,5,30,Gemini-2.5-Flash (FC)
+structured,38,10,30,Gemini-2.5-Flash (FC)
+structured,38,15,30,Gemini-2.5-Flash (FC)
+structured,38,20,30,Gemini-2.5-Flash (FC)
+structured,38,25,30,Gemini-2.5-Flash (FC)
+structured,38,30,30,Gemini-2.5-Flash (FC)
+structured,38,35,30,Gemini-2.5-Flash (FC)
+structured,38,40,30,Gemini-2.5-Flash (FC)
+structured,38,45,30,Gemini-2.5-Flash (FC)
+structured,38,50,30,Gemini-2.5-Flash (FC)
+structured,38,55,29,Gemini-2.5-Flash (FC)
+structured,38,60,29,Gemini-2.5-Flash (FC)
+structured,38,65,25,Gemini-2.5-Flash (FC)
+structured,38,70,24,Gemini-2.5-Flash (FC)
+structured,38,75,21,Gemini-2.5-Flash (FC)
+structured,38,80,17,Gemini-2.5-Flash (FC)
+structured,38,85,8,Gemini-2.5-Flash (FC)
+structured,38,90,3,Gemini-2.5-Flash (FC)
+structured,38,95,0,NONE
+structured,38,100,0,NONE
+structured,40,0,28,Gemini-2.5-Flash (FC)
+structured,40,5,28,Gemini-2.5-Flash (FC)
+structured,40,10,28,Gemini-2.5-Flash (FC)
+structured,40,15,28,Gemini-2.5-Flash (FC)
+structured,40,20,28,Gemini-2.5-Flash (FC)
+structured,40,25,28,Gemini-2.5-Flash (FC)
+structured,40,30,28,Gemini-2.5-Flash (FC)
+structured,40,35,28,Gemini-2.5-Flash (FC)
+structured,40,40,28,Gemini-2.5-Flash (FC)
+structured,40,45,28,Gemini-2.5-Flash (FC)
+structured,40,50,28,Gemini-2.5-Flash (FC)
+structured,40,55,27,Gemini-2.5-Flash (FC)
+structured,40,60,27,Gemini-2.5-Flash (FC)
+structured,40,65,23,Gemini-2.5-Flash (FC)
+structured,40,70,22,Gemini-2.5-Flash (FC)
+structured,40,75,19,Gemini-2.5-Flash (FC)
+structured,40,80,15,Gemini-2.5-Flash (FC)
+structured,40,85,6,Gemini-2.5-Flash (FC)
+structured,40,90,2,Gemini-2.5-Flash (FC)
+structured,40,95,0,NONE
+structured,40,100,0,NONE
+structured,42,0,27,Gemini-2.5-Flash (FC)
+structured,42,5,27,Gemini-2.5-Flash (FC)
+structured,42,10,27,Gemini-2.5-Flash (FC)
+structured,42,15,27,Gemini-2.5-Flash (FC)
+structured,42,20,27,Gemini-2.5-Flash (FC)
+structured,42,25,27,Gemini-2.5-Flash (FC)
+structured,42,30,27,Gemini-2.5-Flash (FC)
+structured,42,35,27,Gemini-2.5-Flash (FC)
+structured,42,40,27,Gemini-2.5-Flash (FC)
+structured,42,45,27,Gemini-2.5-Flash (FC)
+structured,42,50,27,Gemini-2.5-Flash (FC)
+structured,42,55,26,Gemini-2.5-Flash (FC)
+structured,42,60,26,Gemini-2.5-Flash (FC)
+structured,42,65,22,Gemini-2.5-Flash (FC)
+structured,42,70,21,Gemini-2.5-Flash (FC)
+structured,42,75,18,Gemini-2.5-Flash (FC)
+structured,42,80,14,Gemini-2.5-Flash (FC)
+structured,42,85,6,Gemini-2.5-Flash (FC)
+structured,42,90,2,Gemini-2.5-Flash (FC)
+structured,42,95,0,NONE
+structured,42,100,0,NONE
+structured,44,0,27,Gemini-2.5-Flash (FC)
+structured,44,5,27,Gemini-2.5-Flash (FC)
+structured,44,10,27,Gemini-2.5-Flash (FC)
+structured,44,15,27,Gemini-2.5-Flash (FC)
+structured,44,20,27,Gemini-2.5-Flash (FC)
+structured,44,25,27,Gemini-2.5-Flash (FC)
+structured,44,30,27,Gemini-2.5-Flash (FC)
+structured,44,35,27,Gemini-2.5-Flash (FC)
+structured,44,40,27,Gemini-2.5-Flash (FC)
+structured,44,45,27,Gemini-2.5-Flash (FC)
+structured,44,50,27,Gemini-2.5-Flash (FC)
+structured,44,55,26,Gemini-2.5-Flash (FC)
+structured,44,60,26,Gemini-2.5-Flash (FC)
+structured,44,65,22,Gemini-2.5-Flash (FC)
+structured,44,70,21,Gemini-2.5-Flash (FC)
+structured,44,75,18,Gemini-2.5-Flash (FC)
+structured,44,80,14,Gemini-2.5-Flash (FC)
+structured,44,85,6,Gemini-2.5-Flash (FC)
+structured,44,90,2,Gemini-2.5-Flash (FC)
+structured,44,95,0,NONE
+structured,44,100,0,NONE
+structured,46,0,26,Gemini-2.5-Flash (FC)
+structured,46,5,26,Gemini-2.5-Flash (FC)
+structured,46,10,26,Gemini-2.5-Flash (FC)
+structured,46,15,26,Gemini-2.5-Flash (FC)
+structured,46,20,26,Gemini-2.5-Flash (FC)
+structured,46,25,26,Gemini-2.5-Flash (FC)
+structured,46,30,26,Gemini-2.5-Flash (FC)
+structured,46,35,26,Gemini-2.5-Flash (FC)
+structured,46,40,26,Gemini-2.5-Flash (FC)
+structured,46,45,26,Gemini-2.5-Flash (FC)
+structured,46,50,26,Gemini-2.5-Flash (FC)
+structured,46,55,26,Gemini-2.5-Flash (FC)
+structured,46,60,26,Gemini-2.5-Flash (FC)
+structured,46,65,22,Gemini-2.5-Flash (FC)
+structured,46,70,21,Gemini-2.5-Flash (FC)
+structured,46,75,18,Gemini-2.5-Flash (FC)
+structured,46,80,14,Gemini-2.5-Flash (FC)
+structured,46,85,6,Gemini-2.5-Flash (FC)
+structured,46,90,2,Gemini-2.5-Flash (FC)
+structured,46,95,0,NONE
+structured,46,100,0,NONE
+structured,48,0,26,Gemini-2.5-Flash (FC)
+structured,48,5,26,Gemini-2.5-Flash (FC)
+structured,48,10,26,Gemini-2.5-Flash (FC)
+structured,48,15,26,Gemini-2.5-Flash (FC)
+structured,48,20,26,Gemini-2.5-Flash (FC)
+structured,48,25,26,Gemini-2.5-Flash (FC)
+structured,48,30,26,Gemini-2.5-Flash (FC)
+structured,48,35,26,Gemini-2.5-Flash (FC)
+structured,48,40,26,Gemini-2.5-Flash (FC)
+structured,48,45,26,Gemini-2.5-Flash (FC)
+structured,48,50,26,Gemini-2.5-Flash (FC)
+structured,48,55,26,Gemini-2.5-Flash (FC)
+structured,48,60,26,Gemini-2.5-Flash (FC)
+structured,48,65,22,Gemini-2.5-Flash (FC)
+structured,48,70,21,Gemini-2.5-Flash (FC)
+structured,48,75,18,Gemini-2.5-Flash (FC)
+structured,48,80,14,Gemini-2.5-Flash (FC)
+structured,48,85,6,Gemini-2.5-Flash (FC)
+structured,48,90,2,Gemini-2.5-Flash (FC)
+structured,48,95,0,NONE
+structured,48,100,0,NONE
+structured,50,0,26,Gemini-2.5-Flash (FC)
+structured,50,5,26,Gemini-2.5-Flash (FC)
+structured,50,10,26,Gemini-2.5-Flash (FC)
+structured,50,15,26,Gemini-2.5-Flash (FC)
+structured,50,20,26,Gemini-2.5-Flash (FC)
+structured,50,25,26,Gemini-2.5-Flash (FC)
+structured,50,30,26,Gemini-2.5-Flash (FC)
+structured,50,35,26,Gemini-2.5-Flash (FC)
+structured,50,40,26,Gemini-2.5-Flash (FC)
+structured,50,45,26,Gemini-2.5-Flash (FC)
+structured,50,50,26,Gemini-2.5-Flash (FC)
+structured,50,55,26,Gemini-2.5-Flash (FC)
+structured,50,60,26,Gemini-2.5-Flash (FC)
+structured,50,65,22,Gemini-2.5-Flash (FC)
+structured,50,70,21,Gemini-2.5-Flash (FC)
+structured,50,75,18,Gemini-2.5-Flash (FC)
+structured,50,80,14,Gemini-2.5-Flash (FC)
+structured,50,85,6,Gemini-2.5-Flash (FC)
+structured,50,90,2,Gemini-2.5-Flash (FC)
+structured,50,95,0,NONE
+structured,50,100,0,NONE
+structured,52,0,26,Gemini-2.5-Flash (FC)
+structured,52,5,26,Gemini-2.5-Flash (FC)
+structured,52,10,26,Gemini-2.5-Flash (FC)
+structured,52,15,26,Gemini-2.5-Flash (FC)
+structured,52,20,26,Gemini-2.5-Flash (FC)
+structured,52,25,26,Gemini-2.5-Flash (FC)
+structured,52,30,26,Gemini-2.5-Flash (FC)
+structured,52,35,26,Gemini-2.5-Flash (FC)
+structured,52,40,26,Gemini-2.5-Flash (FC)
+structured,52,45,26,Gemini-2.5-Flash (FC)
+structured,52,50,26,Gemini-2.5-Flash (FC)
+structured,52,55,26,Gemini-2.5-Flash (FC)
+structured,52,60,26,Gemini-2.5-Flash (FC)
+structured,52,65,22,Gemini-2.5-Flash (FC)
+structured,52,70,21,Gemini-2.5-Flash (FC)
+structured,52,75,18,Gemini-2.5-Flash (FC)
+structured,52,80,14,Gemini-2.5-Flash (FC)
+structured,52,85,6,Gemini-2.5-Flash (FC)
+structured,52,90,2,Gemini-2.5-Flash (FC)
+structured,52,95,0,NONE
+structured,52,100,0,NONE
+structured,54,0,26,Gemini-2.5-Flash (FC)
+structured,54,5,26,Gemini-2.5-Flash (FC)
+structured,54,10,26,Gemini-2.5-Flash (FC)
+structured,54,15,26,Gemini-2.5-Flash (FC)
+structured,54,20,26,Gemini-2.5-Flash (FC)
+structured,54,25,26,Gemini-2.5-Flash (FC)
+structured,54,30,26,Gemini-2.5-Flash (FC)
+structured,54,35,26,Gemini-2.5-Flash (FC)
+structured,54,40,26,Gemini-2.5-Flash (FC)
+structured,54,45,26,Gemini-2.5-Flash (FC)
+structured,54,50,26,Gemini-2.5-Flash (FC)
+structured,54,55,26,Gemini-2.5-Flash (FC)
+structured,54,60,26,Gemini-2.5-Flash (FC)
+structured,54,65,22,Gemini-2.5-Flash (FC)
+structured,54,70,21,Gemini-2.5-Flash (FC)
+structured,54,75,18,Gemini-2.5-Flash (FC)
+structured,54,80,14,Gemini-2.5-Flash (FC)
+structured,54,85,6,Gemini-2.5-Flash (FC)
+structured,54,90,2,Gemini-2.5-Flash (FC)
+structured,54,95,0,NONE
+structured,54,100,0,NONE
+structured,56,0,26,Gemini-2.5-Flash (FC)
+structured,56,5,26,Gemini-2.5-Flash (FC)
+structured,56,10,26,Gemini-2.5-Flash (FC)
+structured,56,15,26,Gemini-2.5-Flash (FC)
+structured,56,20,26,Gemini-2.5-Flash (FC)
+structured,56,25,26,Gemini-2.5-Flash (FC)
+structured,56,30,26,Gemini-2.5-Flash (FC)
+structured,56,35,26,Gemini-2.5-Flash (FC)
+structured,56,40,26,Gemini-2.5-Flash (FC)
+structured,56,45,26,Gemini-2.5-Flash (FC)
+structured,56,50,26,Gemini-2.5-Flash (FC)
+structured,56,55,26,Gemini-2.5-Flash (FC)
+structured,56,60,26,Gemini-2.5-Flash (FC)
+structured,56,65,22,Gemini-2.5-Flash (FC)
+structured,56,70,21,Gemini-2.5-Flash (FC)
+structured,56,75,18,Gemini-2.5-Flash (FC)
+structured,56,80,14,Gemini-2.5-Flash (FC)
+structured,56,85,6,Gemini-2.5-Flash (FC)
+structured,56,90,2,Gemini-2.5-Flash (FC)
+structured,56,95,0,NONE
+structured,56,100,0,NONE
+structured,58,0,26,Gemini-2.5-Flash (FC)
+structured,58,5,26,Gemini-2.5-Flash (FC)
+structured,58,10,26,Gemini-2.5-Flash (FC)
+structured,58,15,26,Gemini-2.5-Flash (FC)
+structured,58,20,26,Gemini-2.5-Flash (FC)
+structured,58,25,26,Gemini-2.5-Flash (FC)
+structured,58,30,26,Gemini-2.5-Flash (FC)
+structured,58,35,26,Gemini-2.5-Flash (FC)
+structured,58,40,26,Gemini-2.5-Flash (FC)
+structured,58,45,26,Gemini-2.5-Flash (FC)
+structured,58,50,26,Gemini-2.5-Flash (FC)
+structured,58,55,26,Gemini-2.5-Flash (FC)
+structured,58,60,26,Gemini-2.5-Flash (FC)
+structured,58,65,22,Gemini-2.5-Flash (FC)
+structured,58,70,21,Gemini-2.5-Flash (FC)
+structured,58,75,18,Gemini-2.5-Flash (FC)
+structured,58,80,14,Gemini-2.5-Flash (FC)
+structured,58,85,6,Gemini-2.5-Flash (FC)
+structured,58,90,2,Gemini-2.5-Flash (FC)
+structured,58,95,0,NONE
+structured,58,100,0,NONE
+structured,60,0,25,Gemini-2.5-Flash (FC)
+structured,60,5,25,Gemini-2.5-Flash (FC)
+structured,60,10,25,Gemini-2.5-Flash (FC)
+structured,60,15,25,Gemini-2.5-Flash (FC)
+structured,60,20,25,Gemini-2.5-Flash (FC)
+structured,60,25,25,Gemini-2.5-Flash (FC)
+structured,60,30,25,Gemini-2.5-Flash (FC)
+structured,60,35,25,Gemini-2.5-Flash (FC)
+structured,60,40,25,Gemini-2.5-Flash (FC)
+structured,60,45,25,Gemini-2.5-Flash (FC)
+structured,60,50,25,Gemini-2.5-Flash (FC)
+structured,60,55,25,Gemini-2.5-Flash (FC)
+structured,60,60,25,Gemini-2.5-Flash (FC)
+structured,60,65,21,Gemini-2.5-Flash (FC)
+structured,60,70,21,Gemini-2.5-Flash (FC)
+structured,60,75,18,Gemini-2.5-Flash (FC)
+structured,60,80,14,Gemini-2.5-Flash (FC)
+structured,60,85,6,Gemini-2.5-Flash (FC)
+structured,60,90,2,Gemini-2.5-Flash (FC)
+structured,60,95,0,NONE
+structured,60,100,0,NONE
+structured,62,0,24,Gemini-2.5-Flash (FC)
+structured,62,5,24,Gemini-2.5-Flash (FC)
+structured,62,10,24,Gemini-2.5-Flash (FC)
+structured,62,15,24,Gemini-2.5-Flash (FC)
+structured,62,20,24,Gemini-2.5-Flash (FC)
+structured,62,25,24,Gemini-2.5-Flash (FC)
+structured,62,30,24,Gemini-2.5-Flash (FC)
+structured,62,35,24,Gemini-2.5-Flash (FC)
+structured,62,40,24,Gemini-2.5-Flash (FC)
+structured,62,45,24,Gemini-2.5-Flash (FC)
+structured,62,50,24,Gemini-2.5-Flash (FC)
+structured,62,55,24,Gemini-2.5-Flash (FC)
+structured,62,60,24,Gemini-2.5-Flash (FC)
+structured,62,65,21,Gemini-2.5-Flash (FC)
+structured,62,70,21,Gemini-2.5-Flash (FC)
+structured,62,75,18,Gemini-2.5-Flash (FC)
+structured,62,80,14,Gemini-2.5-Flash (FC)
+structured,62,85,6,Gemini-2.5-Flash (FC)
+structured,62,90,2,Gemini-2.5-Flash (FC)
+structured,62,95,0,NONE
+structured,62,100,0,NONE
+structured,64,0,23,Gemini-2.5-Flash (FC)
+structured,64,5,23,Gemini-2.5-Flash (FC)
+structured,64,10,23,Gemini-2.5-Flash (FC)
+structured,64,15,23,Gemini-2.5-Flash (FC)
+structured,64,20,23,Gemini-2.5-Flash (FC)
+structured,64,25,23,Gemini-2.5-Flash (FC)
+structured,64,30,23,Gemini-2.5-Flash (FC)
+structured,64,35,23,Gemini-2.5-Flash (FC)
+structured,64,40,23,Gemini-2.5-Flash (FC)
+structured,64,45,23,Gemini-2.5-Flash (FC)
+structured,64,50,23,Gemini-2.5-Flash (FC)
+structured,64,55,23,Gemini-2.5-Flash (FC)
+structured,64,60,23,Gemini-2.5-Flash (FC)
+structured,64,65,20,Gemini-2.5-Flash (FC)
+structured,64,70,20,Gemini-2.5-Flash (FC)
+structured,64,75,17,Gemini-2.5-Flash (FC)
+structured,64,80,13,Gemini-2.5-Flash (FC)
+structured,64,85,6,Gemini-2.5-Flash (FC)
+structured,64,90,2,Gemini-2.5-Flash (FC)
+structured,64,95,0,NONE
+structured,64,100,0,NONE
+structured,66,0,20,Gemini-2.5-Flash (FC)
+structured,66,5,20,Gemini-2.5-Flash (FC)
+structured,66,10,20,Gemini-2.5-Flash (FC)
+structured,66,15,20,Gemini-2.5-Flash (FC)
+structured,66,20,20,Gemini-2.5-Flash (FC)
+structured,66,25,20,Gemini-2.5-Flash (FC)
+structured,66,30,20,Gemini-2.5-Flash (FC)
+structured,66,35,20,Gemini-2.5-Flash (FC)
+structured,66,40,20,Gemini-2.5-Flash (FC)
+structured,66,45,20,Gemini-2.5-Flash (FC)
+structured,66,50,20,Gemini-2.5-Flash (FC)
+structured,66,55,20,Gemini-2.5-Flash (FC)
+structured,66,60,20,Gemini-2.5-Flash (FC)
+structured,66,65,19,Gemini-2.5-Flash (FC)
+structured,66,70,19,Gemini-2.5-Flash (FC)
+structured,66,75,16,Gemini-2.5-Flash (FC)
+structured,66,80,12,Gemini-2.5-Flash (FC)
+structured,66,85,6,Gemini-2.5-Flash (FC)
+structured,66,90,2,Gemini-2.5-Flash (FC)
+structured,66,95,0,NONE
+structured,66,100,0,NONE
+structured,68,0,18,Gemini-2.5-Flash (FC)
+structured,68,5,18,Gemini-2.5-Flash (FC)
+structured,68,10,18,Gemini-2.5-Flash (FC)
+structured,68,15,18,Gemini-2.5-Flash (FC)
+structured,68,20,18,Gemini-2.5-Flash (FC)
+structured,68,25,18,Gemini-2.5-Flash (FC)
+structured,68,30,18,Gemini-2.5-Flash (FC)
+structured,68,35,18,Gemini-2.5-Flash (FC)
+structured,68,40,18,Gemini-2.5-Flash (FC)
+structured,68,45,18,Gemini-2.5-Flash (FC)
+structured,68,50,18,Gemini-2.5-Flash (FC)
+structured,68,55,18,Gemini-2.5-Flash (FC)
+structured,68,60,18,Gemini-2.5-Flash (FC)
+structured,68,65,17,Gemini-2.5-Flash (FC)
+structured,68,70,17,Gemini-2.5-Flash (FC)
+structured,68,75,14,Gemini-2.5-Flash (FC)
+structured,68,80,10,Gemini-2.5-Flash (FC)
+structured,68,85,6,Gemini-2.5-Flash (FC)
+structured,68,90,2,Gemini-2.5-Flash (FC)
+structured,68,95,0,NONE
+structured,68,100,0,NONE
+structured,70,0,16,Gemini-2.5-Flash (FC)
+structured,70,5,16,Gemini-2.5-Flash (FC)
+structured,70,10,16,Gemini-2.5-Flash (FC)
+structured,70,15,16,Gemini-2.5-Flash (FC)
+structured,70,20,16,Gemini-2.5-Flash (FC)
+structured,70,25,16,Gemini-2.5-Flash (FC)
+structured,70,30,16,Gemini-2.5-Flash (FC)
+structured,70,35,16,Gemini-2.5-Flash (FC)
+structured,70,40,16,Gemini-2.5-Flash (FC)
+structured,70,45,16,Gemini-2.5-Flash (FC)
+structured,70,50,16,Gemini-2.5-Flash (FC)
+structured,70,55,16,Gemini-2.5-Flash (FC)
+structured,70,60,16,Gemini-2.5-Flash (FC)
+structured,70,65,15,Gemini-2.5-Flash (FC)
+structured,70,70,15,Gemini-2.5-Flash (FC)
+structured,70,75,12,Gemini-2.5-Flash (FC)
+structured,70,80,9,Gemini-2.5-Flash (FC)
+structured,70,85,5,Gemini-2.5-Flash (FC)
+structured,70,90,2,Gemini-2.5-Flash (FC)
+structured,70,95,0,NONE
+structured,70,100,0,NONE
+structured,72,0,12,Gemini-2.5-Flash (FC)
+structured,72,5,12,Gemini-2.5-Flash (FC)
+structured,72,10,12,Gemini-2.5-Flash (FC)
+structured,72,15,12,Gemini-2.5-Flash (FC)
+structured,72,20,12,Gemini-2.5-Flash (FC)
+structured,72,25,12,Gemini-2.5-Flash (FC)
+structured,72,30,12,Gemini-2.5-Flash (FC)
+structured,72,35,12,Gemini-2.5-Flash (FC)
+structured,72,40,12,Gemini-2.5-Flash (FC)
+structured,72,45,12,Gemini-2.5-Flash (FC)
+structured,72,50,12,Gemini-2.5-Flash (FC)
+structured,72,55,12,Gemini-2.5-Flash (FC)
+structured,72,60,12,Gemini-2.5-Flash (FC)
+structured,72,65,11,Gemini-2.5-Flash (FC)
+structured,72,70,11,Gemini-2.5-Flash (FC)
+structured,72,75,9,Gemini-2.5-Flash (FC)
+structured,72,80,7,Gemini-2.5-Flash (FC)
+structured,72,85,3,Gemini-2.5-Flash (FC)
+structured,72,90,1,Gemini-2.5-Flash (FC)
+structured,72,95,0,NONE
+structured,72,100,0,NONE
+structured,74,0,7,Gemini-2.5-Flash (FC)
+structured,74,5,7,Gemini-2.5-Flash (FC)
+structured,74,10,7,Gemini-2.5-Flash (FC)
+structured,74,15,7,Gemini-2.5-Flash (FC)
+structured,74,20,7,Gemini-2.5-Flash (FC)
+structured,74,25,7,Gemini-2.5-Flash (FC)
+structured,74,30,7,Gemini-2.5-Flash (FC)
+structured,74,35,7,Gemini-2.5-Flash (FC)
+structured,74,40,7,Gemini-2.5-Flash (FC)
+structured,74,45,7,Gemini-2.5-Flash (FC)
+structured,74,50,7,Gemini-2.5-Flash (FC)
+structured,74,55,7,Gemini-2.5-Flash (FC)
+structured,74,60,7,Gemini-2.5-Flash (FC)
+structured,74,65,6,Gemini-2.5-Flash (FC)
+structured,74,70,6,Gemini-2.5-Flash (FC)
+structured,74,75,4,Gemini-2.5-Flash (FC)
+structured,74,80,4,Gemini-2.5-Flash (FC)
+structured,74,85,1,Gemini-2.5-Flash (FC)
+structured,74,90,1,Gemini-2.5-Flash (FC)
+structured,74,95,0,NONE
+structured,74,100,0,NONE
+structured,76,0,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,5,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,10,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,15,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,20,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,25,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,30,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,35,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,40,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,45,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,50,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,55,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,60,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,65,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,70,2,Grok-4-1-fast-non-reasoning (FC)
+structured,76,75,1,Claude-Opus-4-5-20251101 (FC)
+structured,76,80,1,Claude-Opus-4-5-20251101 (FC)
+structured,76,85,0,NONE
+structured,76,90,0,NONE
+structured,76,95,0,NONE
+structured,76,100,0,NONE
+structured,78,0,0,NONE
+structured,78,5,0,NONE
+structured,78,10,0,NONE
+structured,78,15,0,NONE
+structured,78,20,0,NONE
+structured,78,25,0,NONE
+structured,78,30,0,NONE
+structured,78,35,0,NONE
+structured,78,40,0,NONE
+structured,78,45,0,NONE
+structured,78,50,0,NONE
+structured,78,55,0,NONE
+structured,78,60,0,NONE
+structured,78,65,0,NONE
+structured,78,70,0,NONE
+structured,78,75,0,NONE
+structured,78,80,0,NONE
+structured,78,85,0,NONE
+structured,78,90,0,NONE
+structured,78,95,0,NONE
+structured,78,100,0,NONE
+structured,80,0,0,NONE
+structured,80,5,0,NONE
+structured,80,10,0,NONE
+structured,80,15,0,NONE
+structured,80,20,0,NONE
+structured,80,25,0,NONE
+structured,80,30,0,NONE
+structured,80,35,0,NONE
+structured,80,40,0,NONE
+structured,80,45,0,NONE
+structured,80,50,0,NONE
+structured,80,55,0,NONE
+structured,80,60,0,NONE
+structured,80,65,0,NONE
+structured,80,70,0,NONE
+structured,80,75,0,NONE
+structured,80,80,0,NONE
+structured,80,85,0,NONE
+structured,80,90,0,NONE
+structured,80,95,0,NONE
+structured,80,100,0,NONE
+structured,82,0,0,NONE
+structured,82,5,0,NONE
+structured,82,10,0,NONE
+structured,82,15,0,NONE
+structured,82,20,0,NONE
+structured,82,25,0,NONE
+structured,82,30,0,NONE
+structured,82,35,0,NONE
+structured,82,40,0,NONE
+structured,82,45,0,NONE
+structured,82,50,0,NONE
+structured,82,55,0,NONE
+structured,82,60,0,NONE
+structured,82,65,0,NONE
+structured,82,70,0,NONE
+structured,82,75,0,NONE
+structured,82,80,0,NONE
+structured,82,85,0,NONE
+structured,82,90,0,NONE
+structured,82,95,0,NONE
+structured,82,100,0,NONE
+structured,84,0,0,NONE
+structured,84,5,0,NONE
+structured,84,10,0,NONE
+structured,84,15,0,NONE
+structured,84,20,0,NONE
+structured,84,25,0,NONE
+structured,84,30,0,NONE
+structured,84,35,0,NONE
+structured,84,40,0,NONE
+structured,84,45,0,NONE
+structured,84,50,0,NONE
+structured,84,55,0,NONE
+structured,84,60,0,NONE
+structured,84,65,0,NONE
+structured,84,70,0,NONE
+structured,84,75,0,NONE
+structured,84,80,0,NONE
+structured,84,85,0,NONE
+structured,84,90,0,NONE
+structured,84,95,0,NONE
+structured,84,100,0,NONE
+structured,86,0,0,NONE
+structured,86,5,0,NONE
+structured,86,10,0,NONE
+structured,86,15,0,NONE
+structured,86,20,0,NONE
+structured,86,25,0,NONE
+structured,86,30,0,NONE
+structured,86,35,0,NONE
+structured,86,40,0,NONE
+structured,86,45,0,NONE
+structured,86,50,0,NONE
+structured,86,55,0,NONE
+structured,86,60,0,NONE
+structured,86,65,0,NONE
+structured,86,70,0,NONE
+structured,86,75,0,NONE
+structured,86,80,0,NONE
+structured,86,85,0,NONE
+structured,86,90,0,NONE
+structured,86,95,0,NONE
+structured,86,100,0,NONE
+structured,88,0,0,NONE
+structured,88,5,0,NONE
+structured,88,10,0,NONE
+structured,88,15,0,NONE
+structured,88,20,0,NONE
+structured,88,25,0,NONE
+structured,88,30,0,NONE
+structured,88,35,0,NONE
+structured,88,40,0,NONE
+structured,88,45,0,NONE
+structured,88,50,0,NONE
+structured,88,55,0,NONE
+structured,88,60,0,NONE
+structured,88,65,0,NONE
+structured,88,70,0,NONE
+structured,88,75,0,NONE
+structured,88,80,0,NONE
+structured,88,85,0,NONE
+structured,88,90,0,NONE
+structured,88,95,0,NONE
+structured,88,100,0,NONE
+structured,90,0,0,NONE
+structured,90,5,0,NONE
+structured,90,10,0,NONE
+structured,90,15,0,NONE
+structured,90,20,0,NONE
+structured,90,25,0,NONE
+structured,90,30,0,NONE
+structured,90,35,0,NONE
+structured,90,40,0,NONE
+structured,90,45,0,NONE
+structured,90,50,0,NONE
+structured,90,55,0,NONE
+structured,90,60,0,NONE
+structured,90,65,0,NONE
+structured,90,70,0,NONE
+structured,90,75,0,NONE
+structured,90,80,0,NONE
+structured,90,85,0,NONE
+structured,90,90,0,NONE
+structured,90,95,0,NONE
+structured,90,100,0,NONE
+structured,92,0,0,NONE
+structured,92,5,0,NONE
+structured,92,10,0,NONE
+structured,92,15,0,NONE
+structured,92,20,0,NONE
+structured,92,25,0,NONE
+structured,92,30,0,NONE
+structured,92,35,0,NONE
+structured,92,40,0,NONE
+structured,92,45,0,NONE
+structured,92,50,0,NONE
+structured,92,55,0,NONE
+structured,92,60,0,NONE
+structured,92,65,0,NONE
+structured,92,70,0,NONE
+structured,92,75,0,NONE
+structured,92,80,0,NONE
+structured,92,85,0,NONE
+structured,92,90,0,NONE
+structured,92,95,0,NONE
+structured,92,100,0,NONE
+structured,94,0,0,NONE
+structured,94,5,0,NONE
+structured,94,10,0,NONE
+structured,94,15,0,NONE
+structured,94,20,0,NONE
+structured,94,25,0,NONE
+structured,94,30,0,NONE
+structured,94,35,0,NONE
+structured,94,40,0,NONE
+structured,94,45,0,NONE
+structured,94,50,0,NONE
+structured,94,55,0,NONE
+structured,94,60,0,NONE
+structured,94,65,0,NONE
+structured,94,70,0,NONE
+structured,94,75,0,NONE
+structured,94,80,0,NONE
+structured,94,85,0,NONE
+structured,94,90,0,NONE
+structured,94,95,0,NONE
+structured,94,100,0,NONE
+structured,96,0,0,NONE
+structured,96,5,0,NONE
+structured,96,10,0,NONE
+structured,96,15,0,NONE
+structured,96,20,0,NONE
+structured,96,25,0,NONE
+structured,96,30,0,NONE
+structured,96,35,0,NONE
+structured,96,40,0,NONE
+structured,96,45,0,NONE
+structured,96,50,0,NONE
+structured,96,55,0,NONE
+structured,96,60,0,NONE
+structured,96,65,0,NONE
+structured,96,70,0,NONE
+structured,96,75,0,NONE
+structured,96,80,0,NONE
+structured,96,85,0,NONE
+structured,96,90,0,NONE
+structured,96,95,0,NONE
+structured,96,100,0,NONE
+structured,98,0,0,NONE
+structured,98,5,0,NONE
+structured,98,10,0,NONE
+structured,98,15,0,NONE
+structured,98,20,0,NONE
+structured,98,25,0,NONE
+structured,98,30,0,NONE
+structured,98,35,0,NONE
+structured,98,40,0,NONE
+structured,98,45,0,NONE
+structured,98,50,0,NONE
+structured,98,55,0,NONE
+structured,98,60,0,NONE
+structured,98,65,0,NONE
+structured,98,70,0,NONE
+structured,98,75,0,NONE
+structured,98,80,0,NONE
+structured,98,85,0,NONE
+structured,98,90,0,NONE
+structured,98,95,0,NONE
+structured,98,100,0,NONE
+structured,100,0,0,NONE
+structured,100,5,0,NONE
+structured,100,10,0,NONE
+structured,100,15,0,NONE
+structured,100,20,0,NONE
+structured,100,25,0,NONE
+structured,100,30,0,NONE
+structured,100,35,0,NONE
+structured,100,40,0,NONE
+structured,100,45,0,NONE
+structured,100,50,0,NONE
+structured,100,55,0,NONE
+structured,100,60,0,NONE
+structured,100,65,0,NONE
+structured,100,70,0,NONE
+structured,100,75,0,NONE
+structured,100,80,0,NONE
+structured,100,85,0,NONE
+structured,100,90,0,NONE
+structured,100,95,0,NONE
+structured,100,100,0,NONE
+clarification,0,0,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,5,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,10,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,15,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,20,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,25,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,30,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,35,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,40,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,45,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,50,33,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,55,32,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,60,32,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,65,28,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,70,27,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,75,24,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,80,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,85,11,Claude-Haiku-4-5-20251001 (FC)
+clarification,0,90,5,DeepSeek-V3.2-Exp (FC)
+clarification,0,95,1,Llama-3.1-Nemotron-Ultra-253B-v1 (FC)
+clarification,0,100,1,Llama-3.1-Nemotron-Ultra-253B-v1 (FC)
+clarification,2,0,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,5,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,10,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,15,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,20,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,25,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,30,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,35,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,40,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,45,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,50,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,55,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,60,30,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,65,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,70,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,75,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,80,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,85,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,2,90,4,DeepSeek-V3.2-Exp (FC)
+clarification,2,95,0,NONE
+clarification,2,100,0,NONE
+clarification,4,0,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,5,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,10,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,15,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,20,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,25,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,30,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,35,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,40,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,45,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,50,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,55,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,60,26,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,65,23,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,70,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,75,21,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,80,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,85,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,4,90,4,DeepSeek-V3.2-Exp (FC)
+clarification,4,95,0,NONE
+clarification,4,100,0,NONE
+clarification,6,0,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,5,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,10,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,15,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,20,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,25,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,30,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,35,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,40,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,45,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,50,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,55,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,60,25,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,65,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,70,21,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,75,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,80,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,85,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,6,90,4,DeepSeek-V3.2-Exp (FC)
+clarification,6,95,0,NONE
+clarification,6,100,0,NONE
+clarification,8,0,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,5,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,10,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,15,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,20,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,25,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,30,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,35,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,40,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,45,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,50,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,55,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,60,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,65,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,70,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,75,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,80,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,85,8,Claude-Haiku-4-5-20251001 (FC)
+clarification,8,90,3,DeepSeek-V3.2-Exp (FC)
+clarification,8,95,0,NONE
+clarification,8,100,0,NONE
+clarification,10,0,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,5,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,10,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,15,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,20,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,25,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,30,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,35,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,40,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,45,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,50,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,55,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,60,22,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,65,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,70,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,75,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,80,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,85,8,Claude-Haiku-4-5-20251001 (FC)
+clarification,10,90,3,DeepSeek-V3.2-Exp (FC)
+clarification,10,95,0,NONE
+clarification,10,100,0,NONE
+clarification,12,0,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,5,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,10,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,15,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,20,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,25,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,30,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,35,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,40,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,45,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,50,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,55,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,60,20,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,65,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,70,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,75,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,80,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,85,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,12,90,3,DeepSeek-V3.2-Exp (FC)
+clarification,12,95,0,NONE
+clarification,12,100,0,NONE
+clarification,14,0,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,5,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,10,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,15,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,20,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,25,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,30,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,35,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,40,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,45,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,50,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,55,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,60,19,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,65,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,70,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,75,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,80,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,85,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,14,90,3,DeepSeek-V3.2-Exp (FC)
+clarification,14,95,0,NONE
+clarification,14,100,0,NONE
+clarification,16,0,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,5,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,10,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,15,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,20,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,25,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,30,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,35,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,40,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,45,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,50,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,55,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,60,18,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,65,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,70,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,75,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,16,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,16,95,0,NONE
+clarification,16,100,0,NONE
+clarification,18,0,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,5,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,10,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,15,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,20,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,25,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,30,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,35,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,40,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,45,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,50,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,55,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,60,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,65,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,70,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,75,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,18,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,18,95,0,NONE
+clarification,18,100,0,NONE
+clarification,20,0,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,5,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,10,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,15,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,20,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,25,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,30,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,35,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,40,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,45,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,50,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,55,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,60,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,65,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,70,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,75,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,20,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,20,95,0,NONE
+clarification,20,100,0,NONE
+clarification,22,0,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,5,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,10,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,15,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,20,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,25,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,30,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,35,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,40,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,45,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,50,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,55,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,60,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,65,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,70,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,75,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,22,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,22,95,0,NONE
+clarification,22,100,0,NONE
+clarification,24,0,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,5,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,10,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,15,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,20,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,25,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,30,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,35,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,40,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,45,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,50,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,55,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,60,17,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,65,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,70,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,75,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,24,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,24,95,0,NONE
+clarification,24,100,0,NONE
+clarification,26,0,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,5,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,10,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,15,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,20,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,25,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,30,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,35,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,40,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,45,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,50,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,55,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,60,16,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,65,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,70,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,75,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,26,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,26,95,0,NONE
+clarification,26,100,0,NONE
+clarification,28,0,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,5,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,10,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,15,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,20,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,25,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,30,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,35,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,40,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,45,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,50,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,55,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,60,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,65,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,70,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,75,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,28,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,28,95,0,NONE
+clarification,28,100,0,NONE
+clarification,30,0,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,5,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,10,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,15,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,20,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,25,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,30,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,35,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,40,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,45,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,50,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,55,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,60,15,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,65,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,70,13,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,75,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,80,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,30,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,30,95,0,NONE
+clarification,30,100,0,NONE
+clarification,32,0,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,5,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,10,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,15,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,20,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,25,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,30,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,35,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,40,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,45,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,50,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,55,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,60,14,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,65,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,70,12,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,75,11,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,80,11,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,85,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,32,90,2,DeepSeek-V3.2-Exp (FC)
+clarification,32,95,0,NONE
+clarification,32,100,0,NONE
+clarification,34,0,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,5,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,10,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,15,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,20,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,25,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,30,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,35,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,40,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,45,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,50,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,55,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,60,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,65,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,70,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,75,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,80,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,85,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,34,90,0,NONE
+clarification,34,95,0,NONE
+clarification,34,100,0,NONE
+clarification,36,0,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,5,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,10,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,15,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,20,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,25,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,30,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,35,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,40,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,45,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,50,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,55,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,60,9,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,65,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,70,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,75,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,80,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,85,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,36,90,0,NONE
+clarification,36,95,0,NONE
+clarification,36,100,0,NONE
+clarification,38,0,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,5,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,10,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,15,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,20,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,25,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,30,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,35,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,40,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,45,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,50,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,55,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,60,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,65,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,70,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,75,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,80,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,85,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,38,90,0,NONE
+clarification,38,95,0,NONE
+clarification,38,100,0,NONE
+clarification,40,0,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,5,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,10,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,15,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,20,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,25,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,30,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,35,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,40,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,45,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,50,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,55,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,60,7,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,65,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,70,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,75,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,80,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,85,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,40,90,0,NONE
+clarification,40,95,0,NONE
+clarification,40,100,0,NONE
+clarification,42,0,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,5,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,10,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,15,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,20,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,25,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,30,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,35,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,40,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,45,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,50,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,55,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,60,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,65,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,70,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,75,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,80,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,85,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,42,90,0,NONE
+clarification,42,95,0,NONE
+clarification,42,100,0,NONE
+clarification,44,0,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,5,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,10,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,15,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,20,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,25,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,30,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,35,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,40,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,45,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,50,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,55,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,60,6,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,65,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,70,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,75,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,80,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,85,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,44,90,0,NONE
+clarification,44,95,0,NONE
+clarification,44,100,0,NONE
+clarification,46,0,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,5,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,10,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,15,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,20,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,25,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,30,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,35,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,40,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,45,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,50,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,55,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,60,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,65,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,70,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,75,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,80,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,85,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,46,90,0,NONE
+clarification,46,95,0,NONE
+clarification,46,100,0,NONE
+clarification,48,0,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,5,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,10,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,15,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,20,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,25,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,30,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,35,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,40,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,45,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,50,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,55,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,60,5,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,65,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,70,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,75,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,80,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,85,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,48,90,0,NONE
+clarification,48,95,0,NONE
+clarification,48,100,0,NONE
+clarification,50,0,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,5,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,10,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,15,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,20,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,25,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,30,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,35,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,40,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,45,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,50,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,55,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,60,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,65,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,70,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,75,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,80,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,85,2,Claude-Haiku-4-5-20251001 (FC)
+clarification,50,90,0,NONE
+clarification,50,95,0,NONE
+clarification,50,100,0,NONE
+clarification,52,0,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,5,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,10,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,15,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,20,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,25,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,30,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,35,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,40,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,45,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,50,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,55,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,60,4,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,65,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,70,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,75,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,80,3,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,85,2,Claude-Haiku-4-5-20251001 (FC)
+clarification,52,90,0,NONE
+clarification,52,95,0,NONE
+clarification,52,100,0,NONE
+clarification,54,0,2,xLAM-2-3b-fc-r (FC)
+clarification,54,5,2,xLAM-2-3b-fc-r (FC)
+clarification,54,10,2,xLAM-2-3b-fc-r (FC)
+clarification,54,15,2,xLAM-2-3b-fc-r (FC)
+clarification,54,20,2,xLAM-2-3b-fc-r (FC)
+clarification,54,25,2,xLAM-2-3b-fc-r (FC)
+clarification,54,30,2,xLAM-2-3b-fc-r (FC)
+clarification,54,35,2,xLAM-2-3b-fc-r (FC)
+clarification,54,40,2,xLAM-2-3b-fc-r (FC)
+clarification,54,45,2,xLAM-2-3b-fc-r (FC)
+clarification,54,50,2,xLAM-2-3b-fc-r (FC)
+clarification,54,55,2,xLAM-2-3b-fc-r (FC)
+clarification,54,60,2,xLAM-2-3b-fc-r (FC)
+clarification,54,65,1,Claude-Opus-4-5-20251101 (FC)
+clarification,54,70,1,Claude-Opus-4-5-20251101 (FC)
+clarification,54,75,1,Claude-Opus-4-5-20251101 (FC)
+clarification,54,80,1,Claude-Opus-4-5-20251101 (FC)
+clarification,54,85,0,NONE
+clarification,54,90,0,NONE
+clarification,54,95,0,NONE
+clarification,54,100,0,NONE
+clarification,56,0,2,xLAM-2-3b-fc-r (FC)
+clarification,56,5,2,xLAM-2-3b-fc-r (FC)
+clarification,56,10,2,xLAM-2-3b-fc-r (FC)
+clarification,56,15,2,xLAM-2-3b-fc-r (FC)
+clarification,56,20,2,xLAM-2-3b-fc-r (FC)
+clarification,56,25,2,xLAM-2-3b-fc-r (FC)
+clarification,56,30,2,xLAM-2-3b-fc-r (FC)
+clarification,56,35,2,xLAM-2-3b-fc-r (FC)
+clarification,56,40,2,xLAM-2-3b-fc-r (FC)
+clarification,56,45,2,xLAM-2-3b-fc-r (FC)
+clarification,56,50,2,xLAM-2-3b-fc-r (FC)
+clarification,56,55,2,xLAM-2-3b-fc-r (FC)
+clarification,56,60,2,xLAM-2-3b-fc-r (FC)
+clarification,56,65,1,Claude-Opus-4-5-20251101 (FC)
+clarification,56,70,1,Claude-Opus-4-5-20251101 (FC)
+clarification,56,75,1,Claude-Opus-4-5-20251101 (FC)
+clarification,56,80,1,Claude-Opus-4-5-20251101 (FC)
+clarification,56,85,0,NONE
+clarification,56,90,0,NONE
+clarification,56,95,0,NONE
+clarification,56,100,0,NONE
+clarification,58,0,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,5,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,10,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,15,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,20,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,25,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,30,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,35,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,40,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,45,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,50,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,55,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,60,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,65,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,70,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,75,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,80,1,Claude-Opus-4-5-20251101 (FC)
+clarification,58,85,0,NONE
+clarification,58,90,0,NONE
+clarification,58,95,0,NONE
+clarification,58,100,0,NONE
+clarification,60,0,0,NONE
+clarification,60,5,0,NONE
+clarification,60,10,0,NONE
+clarification,60,15,0,NONE
+clarification,60,20,0,NONE
+clarification,60,25,0,NONE
+clarification,60,30,0,NONE
+clarification,60,35,0,NONE
+clarification,60,40,0,NONE
+clarification,60,45,0,NONE
+clarification,60,50,0,NONE
+clarification,60,55,0,NONE
+clarification,60,60,0,NONE
+clarification,60,65,0,NONE
+clarification,60,70,0,NONE
+clarification,60,75,0,NONE
+clarification,60,80,0,NONE
+clarification,60,85,0,NONE
+clarification,60,90,0,NONE
+clarification,60,95,0,NONE
+clarification,60,100,0,NONE
+clarification,62,0,0,NONE
+clarification,62,5,0,NONE
+clarification,62,10,0,NONE
+clarification,62,15,0,NONE
+clarification,62,20,0,NONE
+clarification,62,25,0,NONE
+clarification,62,30,0,NONE
+clarification,62,35,0,NONE
+clarification,62,40,0,NONE
+clarification,62,45,0,NONE
+clarification,62,50,0,NONE
+clarification,62,55,0,NONE
+clarification,62,60,0,NONE
+clarification,62,65,0,NONE
+clarification,62,70,0,NONE
+clarification,62,75,0,NONE
+clarification,62,80,0,NONE
+clarification,62,85,0,NONE
+clarification,62,90,0,NONE
+clarification,62,95,0,NONE
+clarification,62,100,0,NONE
+clarification,64,0,0,NONE
+clarification,64,5,0,NONE
+clarification,64,10,0,NONE
+clarification,64,15,0,NONE
+clarification,64,20,0,NONE
+clarification,64,25,0,NONE
+clarification,64,30,0,NONE
+clarification,64,35,0,NONE
+clarification,64,40,0,NONE
+clarification,64,45,0,NONE
+clarification,64,50,0,NONE
+clarification,64,55,0,NONE
+clarification,64,60,0,NONE
+clarification,64,65,0,NONE
+clarification,64,70,0,NONE
+clarification,64,75,0,NONE
+clarification,64,80,0,NONE
+clarification,64,85,0,NONE
+clarification,64,90,0,NONE
+clarification,64,95,0,NONE
+clarification,64,100,0,NONE
+clarification,66,0,0,NONE
+clarification,66,5,0,NONE
+clarification,66,10,0,NONE
+clarification,66,15,0,NONE
+clarification,66,20,0,NONE
+clarification,66,25,0,NONE
+clarification,66,30,0,NONE
+clarification,66,35,0,NONE
+clarification,66,40,0,NONE
+clarification,66,45,0,NONE
+clarification,66,50,0,NONE
+clarification,66,55,0,NONE
+clarification,66,60,0,NONE
+clarification,66,65,0,NONE
+clarification,66,70,0,NONE
+clarification,66,75,0,NONE
+clarification,66,80,0,NONE
+clarification,66,85,0,NONE
+clarification,66,90,0,NONE
+clarification,66,95,0,NONE
+clarification,66,100,0,NONE
+clarification,68,0,0,NONE
+clarification,68,5,0,NONE
+clarification,68,10,0,NONE
+clarification,68,15,0,NONE
+clarification,68,20,0,NONE
+clarification,68,25,0,NONE
+clarification,68,30,0,NONE
+clarification,68,35,0,NONE
+clarification,68,40,0,NONE
+clarification,68,45,0,NONE
+clarification,68,50,0,NONE
+clarification,68,55,0,NONE
+clarification,68,60,0,NONE
+clarification,68,65,0,NONE
+clarification,68,70,0,NONE
+clarification,68,75,0,NONE
+clarification,68,80,0,NONE
+clarification,68,85,0,NONE
+clarification,68,90,0,NONE
+clarification,68,95,0,NONE
+clarification,68,100,0,NONE
+clarification,70,0,0,NONE
+clarification,70,5,0,NONE
+clarification,70,10,0,NONE
+clarification,70,15,0,NONE
+clarification,70,20,0,NONE
+clarification,70,25,0,NONE
+clarification,70,30,0,NONE
+clarification,70,35,0,NONE
+clarification,70,40,0,NONE
+clarification,70,45,0,NONE
+clarification,70,50,0,NONE
+clarification,70,55,0,NONE
+clarification,70,60,0,NONE
+clarification,70,65,0,NONE
+clarification,70,70,0,NONE
+clarification,70,75,0,NONE
+clarification,70,80,0,NONE
+clarification,70,85,0,NONE
+clarification,70,90,0,NONE
+clarification,70,95,0,NONE
+clarification,70,100,0,NONE
+clarification,72,0,0,NONE
+clarification,72,5,0,NONE
+clarification,72,10,0,NONE
+clarification,72,15,0,NONE
+clarification,72,20,0,NONE
+clarification,72,25,0,NONE
+clarification,72,30,0,NONE
+clarification,72,35,0,NONE
+clarification,72,40,0,NONE
+clarification,72,45,0,NONE
+clarification,72,50,0,NONE
+clarification,72,55,0,NONE
+clarification,72,60,0,NONE
+clarification,72,65,0,NONE
+clarification,72,70,0,NONE
+clarification,72,75,0,NONE
+clarification,72,80,0,NONE
+clarification,72,85,0,NONE
+clarification,72,90,0,NONE
+clarification,72,95,0,NONE
+clarification,72,100,0,NONE
+clarification,74,0,0,NONE
+clarification,74,5,0,NONE
+clarification,74,10,0,NONE
+clarification,74,15,0,NONE
+clarification,74,20,0,NONE
+clarification,74,25,0,NONE
+clarification,74,30,0,NONE
+clarification,74,35,0,NONE
+clarification,74,40,0,NONE
+clarification,74,45,0,NONE
+clarification,74,50,0,NONE
+clarification,74,55,0,NONE
+clarification,74,60,0,NONE
+clarification,74,65,0,NONE
+clarification,74,70,0,NONE
+clarification,74,75,0,NONE
+clarification,74,80,0,NONE
+clarification,74,85,0,NONE
+clarification,74,90,0,NONE
+clarification,74,95,0,NONE
+clarification,74,100,0,NONE
+clarification,76,0,0,NONE
+clarification,76,5,0,NONE
+clarification,76,10,0,NONE
+clarification,76,15,0,NONE
+clarification,76,20,0,NONE
+clarification,76,25,0,NONE
+clarification,76,30,0,NONE
+clarification,76,35,0,NONE
+clarification,76,40,0,NONE
+clarification,76,45,0,NONE
+clarification,76,50,0,NONE
+clarification,76,55,0,NONE
+clarification,76,60,0,NONE
+clarification,76,65,0,NONE
+clarification,76,70,0,NONE
+clarification,76,75,0,NONE
+clarification,76,80,0,NONE
+clarification,76,85,0,NONE
+clarification,76,90,0,NONE
+clarification,76,95,0,NONE
+clarification,76,100,0,NONE
+clarification,78,0,0,NONE
+clarification,78,5,0,NONE
+clarification,78,10,0,NONE
+clarification,78,15,0,NONE
+clarification,78,20,0,NONE
+clarification,78,25,0,NONE
+clarification,78,30,0,NONE
+clarification,78,35,0,NONE
+clarification,78,40,0,NONE
+clarification,78,45,0,NONE
+clarification,78,50,0,NONE
+clarification,78,55,0,NONE
+clarification,78,60,0,NONE
+clarification,78,65,0,NONE
+clarification,78,70,0,NONE
+clarification,78,75,0,NONE
+clarification,78,80,0,NONE
+clarification,78,85,0,NONE
+clarification,78,90,0,NONE
+clarification,78,95,0,NONE
+clarification,78,100,0,NONE
+clarification,80,0,0,NONE
+clarification,80,5,0,NONE
+clarification,80,10,0,NONE
+clarification,80,15,0,NONE
+clarification,80,20,0,NONE
+clarification,80,25,0,NONE
+clarification,80,30,0,NONE
+clarification,80,35,0,NONE
+clarification,80,40,0,NONE
+clarification,80,45,0,NONE
+clarification,80,50,0,NONE
+clarification,80,55,0,NONE
+clarification,80,60,0,NONE
+clarification,80,65,0,NONE
+clarification,80,70,0,NONE
+clarification,80,75,0,NONE
+clarification,80,80,0,NONE
+clarification,80,85,0,NONE
+clarification,80,90,0,NONE
+clarification,80,95,0,NONE
+clarification,80,100,0,NONE
+clarification,82,0,0,NONE
+clarification,82,5,0,NONE
+clarification,82,10,0,NONE
+clarification,82,15,0,NONE
+clarification,82,20,0,NONE
+clarification,82,25,0,NONE
+clarification,82,30,0,NONE
+clarification,82,35,0,NONE
+clarification,82,40,0,NONE
+clarification,82,45,0,NONE
+clarification,82,50,0,NONE
+clarification,82,55,0,NONE
+clarification,82,60,0,NONE
+clarification,82,65,0,NONE
+clarification,82,70,0,NONE
+clarification,82,75,0,NONE
+clarification,82,80,0,NONE
+clarification,82,85,0,NONE
+clarification,82,90,0,NONE
+clarification,82,95,0,NONE
+clarification,82,100,0,NONE
+clarification,84,0,0,NONE
+clarification,84,5,0,NONE
+clarification,84,10,0,NONE
+clarification,84,15,0,NONE
+clarification,84,20,0,NONE
+clarification,84,25,0,NONE
+clarification,84,30,0,NONE
+clarification,84,35,0,NONE
+clarification,84,40,0,NONE
+clarification,84,45,0,NONE
+clarification,84,50,0,NONE
+clarification,84,55,0,NONE
+clarification,84,60,0,NONE
+clarification,84,65,0,NONE
+clarification,84,70,0,NONE
+clarification,84,75,0,NONE
+clarification,84,80,0,NONE
+clarification,84,85,0,NONE
+clarification,84,90,0,NONE
+clarification,84,95,0,NONE
+clarification,84,100,0,NONE
+clarification,86,0,0,NONE
+clarification,86,5,0,NONE
+clarification,86,10,0,NONE
+clarification,86,15,0,NONE
+clarification,86,20,0,NONE
+clarification,86,25,0,NONE
+clarification,86,30,0,NONE
+clarification,86,35,0,NONE
+clarification,86,40,0,NONE
+clarification,86,45,0,NONE
+clarification,86,50,0,NONE
+clarification,86,55,0,NONE
+clarification,86,60,0,NONE
+clarification,86,65,0,NONE
+clarification,86,70,0,NONE
+clarification,86,75,0,NONE
+clarification,86,80,0,NONE
+clarification,86,85,0,NONE
+clarification,86,90,0,NONE
+clarification,86,95,0,NONE
+clarification,86,100,0,NONE
+clarification,88,0,0,NONE
+clarification,88,5,0,NONE
+clarification,88,10,0,NONE
+clarification,88,15,0,NONE
+clarification,88,20,0,NONE
+clarification,88,25,0,NONE
+clarification,88,30,0,NONE
+clarification,88,35,0,NONE
+clarification,88,40,0,NONE
+clarification,88,45,0,NONE
+clarification,88,50,0,NONE
+clarification,88,55,0,NONE
+clarification,88,60,0,NONE
+clarification,88,65,0,NONE
+clarification,88,70,0,NONE
+clarification,88,75,0,NONE
+clarification,88,80,0,NONE
+clarification,88,85,0,NONE
+clarification,88,90,0,NONE
+clarification,88,95,0,NONE
+clarification,88,100,0,NONE
+clarification,90,0,0,NONE
+clarification,90,5,0,NONE
+clarification,90,10,0,NONE
+clarification,90,15,0,NONE
+clarification,90,20,0,NONE
+clarification,90,25,0,NONE
+clarification,90,30,0,NONE
+clarification,90,35,0,NONE
+clarification,90,40,0,NONE
+clarification,90,45,0,NONE
+clarification,90,50,0,NONE
+clarification,90,55,0,NONE
+clarification,90,60,0,NONE
+clarification,90,65,0,NONE
+clarification,90,70,0,NONE
+clarification,90,75,0,NONE
+clarification,90,80,0,NONE
+clarification,90,85,0,NONE
+clarification,90,90,0,NONE
+clarification,90,95,0,NONE
+clarification,90,100,0,NONE
+clarification,92,0,0,NONE
+clarification,92,5,0,NONE
+clarification,92,10,0,NONE
+clarification,92,15,0,NONE
+clarification,92,20,0,NONE
+clarification,92,25,0,NONE
+clarification,92,30,0,NONE
+clarification,92,35,0,NONE
+clarification,92,40,0,NONE
+clarification,92,45,0,NONE
+clarification,92,50,0,NONE
+clarification,92,55,0,NONE
+clarification,92,60,0,NONE
+clarification,92,65,0,NONE
+clarification,92,70,0,NONE
+clarification,92,75,0,NONE
+clarification,92,80,0,NONE
+clarification,92,85,0,NONE
+clarification,92,90,0,NONE
+clarification,92,95,0,NONE
+clarification,92,100,0,NONE
+clarification,94,0,0,NONE
+clarification,94,5,0,NONE
+clarification,94,10,0,NONE
+clarification,94,15,0,NONE
+clarification,94,20,0,NONE
+clarification,94,25,0,NONE
+clarification,94,30,0,NONE
+clarification,94,35,0,NONE
+clarification,94,40,0,NONE
+clarification,94,45,0,NONE
+clarification,94,50,0,NONE
+clarification,94,55,0,NONE
+clarification,94,60,0,NONE
+clarification,94,65,0,NONE
+clarification,94,70,0,NONE
+clarification,94,75,0,NONE
+clarification,94,80,0,NONE
+clarification,94,85,0,NONE
+clarification,94,90,0,NONE
+clarification,94,95,0,NONE
+clarification,94,100,0,NONE
+clarification,96,0,0,NONE
+clarification,96,5,0,NONE
+clarification,96,10,0,NONE
+clarification,96,15,0,NONE
+clarification,96,20,0,NONE
+clarification,96,25,0,NONE
+clarification,96,30,0,NONE
+clarification,96,35,0,NONE
+clarification,96,40,0,NONE
+clarification,96,45,0,NONE
+clarification,96,50,0,NONE
+clarification,96,55,0,NONE
+clarification,96,60,0,NONE
+clarification,96,65,0,NONE
+clarification,96,70,0,NONE
+clarification,96,75,0,NONE
+clarification,96,80,0,NONE
+clarification,96,85,0,NONE
+clarification,96,90,0,NONE
+clarification,96,95,0,NONE
+clarification,96,100,0,NONE
+clarification,98,0,0,NONE
+clarification,98,5,0,NONE
+clarification,98,10,0,NONE
+clarification,98,15,0,NONE
+clarification,98,20,0,NONE
+clarification,98,25,0,NONE
+clarification,98,30,0,NONE
+clarification,98,35,0,NONE
+clarification,98,40,0,NONE
+clarification,98,45,0,NONE
+clarification,98,50,0,NONE
+clarification,98,55,0,NONE
+clarification,98,60,0,NONE
+clarification,98,65,0,NONE
+clarification,98,70,0,NONE
+clarification,98,75,0,NONE
+clarification,98,80,0,NONE
+clarification,98,85,0,NONE
+clarification,98,90,0,NONE
+clarification,98,95,0,NONE
+clarification,98,100,0,NONE
+clarification,100,0,0,NONE
+clarification,100,5,0,NONE
+clarification,100,10,0,NONE
+clarification,100,15,0,NONE
+clarification,100,20,0,NONE
+clarification,100,25,0,NONE
+clarification,100,30,0,NONE
+clarification,100,35,0,NONE
+clarification,100,40,0,NONE
+clarification,100,45,0,NONE
+clarification,100,50,0,NONE
+clarification,100,55,0,NONE
+clarification,100,60,0,NONE
+clarification,100,65,0,NONE
+clarification,100,70,0,NONE
+clarification,100,75,0,NONE
+clarification,100,80,0,NONE
+clarification,100,85,0,NONE
+clarification,100,90,0,NONE
+clarification,100,95,0,NONE
+clarification,100,100,0,NONE

@@ -1,0 +1,12 @@
+{
+  "source_hash": "passed",
+  "independent_nested_loop_pareto_counts": {
+    "structured": 30,
+    "clarification": 22
+  },
+  "executed_notebook_code_cells": 6,
+  "notebook_errors": 0,
+  "status_report_page_count": 1,
+  "status_numeric_claim_check": "passed",
+  "figure_visual_review": "passed"
+}

@@ -1,0 +1,110 @@
+model,native_fc,valid_score_fields,positive_resource_fields,finite_fields,included
+Claude-Opus-4-5-20251101 (FC),True,True,True,True,True
+Claude-Sonnet-4-5-20250929 (FC),True,True,True,True,True
+Gemini-3-Pro-Preview (Prompt),False,True,True,True,False
+GLM-4.6 (FC thinking),False,True,True,True,False
+Grok-4-1-fast-reasoning (FC),True,True,True,True,True
+Claude-Haiku-4-5-20251001 (FC),True,True,True,True,True
+Gemini-3-Pro-Preview (FC),True,True,True,True,True
+o3-2025-04-16 (Prompt),False,True,True,True,False
+Grok-4-0709 (Prompt),False,True,True,True,False
+Grok-4-0709 (FC),True,True,True,True,True
+Moonshotai-Kimi-K2-Instruct (FC),True,True,True,True,True
+Grok-4-1-fast-non-reasoning (FC),True,True,True,True,True
+Command A Reasoning (FC),True,True,True,True,True
+DeepSeek-V3.2-Exp (Prompt + Thinking),False,True,True,True,False
+Gemini-2.5-Flash (FC),True,True,True,True,True
+GPT-5.2-2025-12-11 (FC),True,True,True,True,True
+GPT-5-mini-2025-08-07 (FC),True,True,True,True,True
+xLAM-2-32b-fc-r (FC),True,True,True,True,True
+DeepSeek-V3.2-Exp (FC),True,True,True,True,True
+GPT-4.1-2025-04-14 (FC),True,True,True,True,True
+o4-mini-2025-04-16 (FC),True,True,True,True,True
+xLAM-2-70b-fc-r (FC),True,True,True,True,True
+Qwen3-235B-A22B-Instruct-2507 (Prompt),False,True,True,True,False
+GPT-5-nano-2025-08-07 (FC),True,True,True,True,True
+Nanbeige4-3B-Thinking-2511 (FC),True,True,True,True,True
+Gemini-2.5-Flash (Prompt),False,True,True,True,False
+GPT-4.1-mini-2025-04-14 (FC),True,True,True,True,True
+o4-mini-2025-04-16 (Prompt),False,True,True,True,False
+Qwen3-32B (FC),True,True,True,True,True
+o3-2025-04-16 (FC),True,True,True,True,True
+Qwen3-235B-A22B-Instruct-2507 (FC),True,True,True,True,True
+Nanbeige3.5-Pro-Thinking (FC),True,True,True,True,True
+Qwen3-32B (Prompt),False,True,True,True,False
+xLAM-2-8b-fc-r (FC),True,True,True,True,True
+Command A (FC),True,True,True,True,True
+BitAgent-Bounty-8B,False,True,True,True,False
+Arch-Agent-32B,False,True,True,True,False
+GPT-5.2-2025-12-11 (Prompt),False,True,True,True,False
+Qwen3-8B (FC),True,True,True,True,True
+ToolACE-2-8B (FC),True,True,True,True,True
+Qwen3-30B-A3B-Instruct-2507 (FC),True,True,True,True,True
+xLAM-2-3b-fc-r (FC),True,True,True,True,True
+Qwen3-14B (FC),True,True,True,True,True
+Qwen3-8B (Prompt),False,True,True,True,False
+GPT-4.1-2025-04-14 (Prompt),False,True,True,True,False
+mistral-large-2411 (FC),True,True,True,True,True
+Qwen3-14B (Prompt),False,True,True,True,False
+Mistral-Medium-2505,False,True,True,True,False
+Mistral-Medium-2505 (FC),True,True,True,True,True
+Llama-4-Maverick-17B-128E-Instruct-FP8 (FC),True,True,True,True,True
+Mistral-small-2506 (FC),True,True,True,True,True
+Gemini-2.5-Flash-Lite (FC),True,True,True,True,True
+Qwen3-30B-A3B-Instruct-2507 (Prompt),False,True,True,True,False
+Qwen3-4B-Instruct-2507 (FC),True,True,True,True,True
+Qwen3-4B-Instruct-2507 (Prompt),False,True,True,True,False
+Arch-Agent-3B,False,True,True,True,False
+Claude-Opus-4-5-20251101 (Prompt),False,True,True,True,False
+GPT-4.1-nano-2025-04-14 (FC),True,True,True,True,True
+Mistral-Small-2506 (Prompt),False,True,True,True,False
+Arch-Agent-1.5B,False,True,True,True,False
+Command R7B (FC),True,True,True,True,True
+Llama-3.3-70B-Instruct (FC),True,True,True,True,True
+mistral-large-2411 (Prompt),False,True,True,True,False
+Hammer2.1-7b (FC),True,True,True,True,True
+xLAM-2-1b-fc-r (FC),True,True,True,True,True
+Gemma-3-12b-it (Prompt),False,True,True,True,False
+GPT-4.1-mini-2025-04-14 (Prompt),False,True,True,True,False
+Hammer2.1-3b (FC),True,True,True,True,True
+Gemma-3-27b-it (Prompt),False,True,True,True,False
+Phi-4 (Prompt),False,True,True,True,False
+Qwen3-1.7B (FC),True,True,True,True,True
+Llama-4-Scout-17B-16E-Instruct (FC),True,True,True,True,True
+Gemini-2.5-Flash-Lite (Prompt),False,True,True,True,False
+CoALM-70B,False,True,True,True,False
+Hammer2.1-1.5b (FC),True,True,True,True,True
+palmyra-x-004 (FC),True,True,True,True,True
+GPT-5-mini-2025-08-07 (Prompt),False,True,True,True,False
+Open-Mistral-Nemo-2407 (FC),True,True,True,True,True
+GPT-5-nano-2025-08-07 (Prompt),False,True,True,True,False
+Amazon-Nova-2-Lite-v1:0 (FC),True,True,True,True,True
+Granite-3.1-8B-Instruct (FC),True,True,True,True,True
+Falcon3-10B-Instruct (FC),True,True,True,True,True
+Granite-3.2-8B-Instruct (FC),True,True,True,True,True
+CoALM-8B,False,True,True,True,False
+Llama-3.1-8B-Instruct (Prompt),False,True,True,True,False
+MiniCPM3-4B-FC (FC),True,True,True,True,True
+Claude-Haiku-4-5-20251001 (Prompt),False,True,True,True,False
+Amazon-Nova-Pro-v1:0 (FC),True,True,True,True,True
+Claude-Sonnet-4-5-20250929 (Prompt),False,True,True,True,False
+GPT-4.1-nano-2025-04-14 (Prompt),False,True,True,True,False
+Falcon3-7B-Instruct (FC),True,True,True,True,True
+Qwen3-0.6B (FC),True,True,True,True,True
+Granite-20b-FunctionCalling (FC),True,True,True,True,True
+Qwen3-0.6B (Prompt),False,True,True,True,False
+Amazon-Nova-Micro-v1:0 (FC),True,True,True,True,True
+RZN-T (Prompt),False,True,True,True,False
+MiniCPM3-4B (Prompt),False,True,True,True,False
+Llama-3.2-3B-Instruct (FC),True,True,True,True,True
+Bielik-11B-v2.3-Instruct (Prompt),False,True,True,True,False
+Hammer2.1-0.5b (FC),True,True,True,True,True
+Gemma-3-4b-it (Prompt),False,True,True,True,False
+Open-Mistral-Nemo-2407 (Prompt),False,True,True,True,False
+Granite-4.0-350m (FC),True,True,True,True,True
+Falcon3-3B-Instruct (FC),True,True,True,True,True
+Ministral-8B-Instruct-2410 (FC),True,True,True,True,True
+Falcon3-1B-Instruct (FC),True,True,True,True,True
+Llama-3.2-1B-Instruct (FC),True,True,True,True,True
+Llama-3.1-Nemotron-Ultra-253B-v1 (FC),True,True,True,True,True
+Gemma-3-1b-it (Prompt),False,True,True,True,False

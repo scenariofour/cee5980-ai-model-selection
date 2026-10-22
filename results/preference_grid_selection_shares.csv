@@ -1,0 +1,53 @@
+workflow,model,selection_share,weight_vectors
+structured,Claude-Opus-4-5-20251101 (FC),0.001129305477131564,1771
+structured,Grok-4-1-fast-reasoning (FC),0.0,1771
+structured,Claude-Haiku-4-5-20251001 (FC),0.0,1771
+structured,Moonshotai-Kimi-K2-Instruct (FC),0.0,1771
+structured,Grok-4-1-fast-non-reasoning (FC),0.00282326369282891,1771
+structured,Command A Reasoning (FC),0.03387916431394692,1771
+structured,Gemini-2.5-Flash (FC),0.22473178994918125,1771
+structured,xLAM-2-32b-fc-r (FC),0.269339356295878,1771
+structured,DeepSeek-V3.2-Exp (FC),0.0,1771
+structured,GPT-4.1-2025-04-14 (FC),0.0,1771
+structured,GPT-4.1-mini-2025-04-14 (FC),0.0,1771
+structured,o3-2025-04-16 (FC),0.0,1771
+structured,Qwen3-235B-A22B-Instruct-2507 (FC),0.0,1771
+structured,Command A (FC),0.0,1771
+structured,ToolACE-2-8B (FC),0.0,1771
+structured,xLAM-2-3b-fc-r (FC),0.005081874647092038,1771
+structured,Qwen3-14B (FC),0.0,1771
+structured,Mistral-small-2506 (FC),0.0,1771
+structured,Gemini-2.5-Flash-Lite (FC),0.21795595708639187,1771
+structured,Qwen3-4B-Instruct-2507 (FC),0.0,1771
+structured,Command R7B (FC),0.0,1771
+structured,Hammer2.1-7b (FC),0.006211180124223602,1771
+structured,Hammer2.1-3b (FC),0.038396386222473176,1771
+structured,Open-Mistral-Nemo-2407 (FC),0.0,1771
+structured,Amazon-Nova-2-Lite-v1:0 (FC),0.0,1771
+structured,Amazon-Nova-Pro-v1:0 (FC),0.0033879164313946925,1771
+structured,Qwen3-0.6B (FC),0.01693958215697346,1771
+structured,Amazon-Nova-Micro-v1:0 (FC),0.02258610954263128,1771
+structured,Falcon3-1B-Instruct (FC),0.0,1771
+structured,Llama-3.1-Nemotron-Ultra-253B-v1 (FC),0.15753811405985318,1771
+clarification,Claude-Opus-4-5-20251101 (FC),0.014116318464144552,1771
+clarification,Claude-Sonnet-4-5-20250929 (FC),0.000564652738565782,1771
+clarification,Claude-Haiku-4-5-20251001 (FC),0.024844720496894408,1771
+clarification,Moonshotai-Kimi-K2-Instruct (FC),0.0,1771
+clarification,Command A Reasoning (FC),0.048560135516657256,1771
+clarification,Gemini-2.5-Flash (FC),0.011857707509881422,1771
+clarification,xLAM-2-32b-fc-r (FC),0.42405420666290233,1771
+clarification,DeepSeek-V3.2-Exp (FC),0.032185206098249576,1771
+clarification,GPT-4.1-2025-04-14 (FC),0.0,1771
+clarification,xLAM-2-70b-fc-r (FC),0.17504234895539245,1771
+clarification,GPT-4.1-mini-2025-04-14 (FC),0.0,1771
+clarification,Qwen3-235B-A22B-Instruct-2507 (FC),0.0,1771
+clarification,xLAM-2-3b-fc-r (FC),0.01355166572557877,1771
+clarification,Mistral-small-2506 (FC),0.0,1771
+clarification,Gemini-2.5-Flash-Lite (FC),0.0,1771
+clarification,GPT-4.1-nano-2025-04-14 (FC),0.0,1771
+clarification,Command R7B (FC),0.0,1771
+clarification,Hammer2.1-7b (FC),0.0,1771
+clarification,xLAM-2-1b-fc-r (FC),0.0,1771
+clarification,Open-Mistral-Nemo-2407 (FC),0.0,1771
+clarification,Qwen3-0.6B (FC),0.011857707509881422,1771
+clarification,Llama-3.1-Nemotron-Ultra-253B-v1 (FC),0.24336533032185206,1771

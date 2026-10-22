@@ -1,0 +1,101 @@
+{
+  "source": "https://gorilla.cs.berkeley.edu/data_overall.csv",
+  "source_sha256": "ede5081a24bc5ac7f9b3b09a52af6bcfcd35aa0f1709239fed979db77a8159a6",
+  "raw_configurations": 109,
+  "eligible_configurations": 66,
+  "preference_grid_size_per_workflow": 1771,
+  "threshold_grid_size_per_workflow": 1071,
+  "resource_value_anchors": {
+    "benchmark_cost": [
+      0.46,
+      355.17
+    ],
+    "p95_latency": [
+      0.96,
+      568.59
+    ]
+  },
+  "profiles_order": [
+    "workflow_performance",
+    "avoidance",
+    "cost_value",
+    "latency_value"
+  ],
+  "illustrative_profiles": {
+    "balanced": [
+      0.4,
+      0.2,
+      0.2,
+      0.2
+    ],
+    "quality_focused": [
+      0.6,
+      0.25,
+      0.075,
+      0.075
+    ],
+    "resource_focused": [
+      0.25,
+      0.15,
+      0.35,
+      0.25
+    ]
+  },
+  "illustrative_screen": {
+    "performance_min": 60.0,
+    "avoidance_min": 80.0,
+    "benchmark_cost_max": 100.0,
+    "p95_latency_max": 15.0
+  },
+  "workflows": {
+    "structured": {
+      "pareto_count": 30,
+      "profile_winners": {
+        "balanced": [
+          "xLAM-2-32b-fc-r (FC)"
+        ],
+        "quality_focused": [
+          "Hammer2.1-3b (FC)"
+        ],
+        "resource_focused": [
+          "Gemini-2.5-Flash-Lite (FC)"
+        ]
+      },
+      "illustrative_screen_feasible_count": 14,
+      "illustrative_screen_winners": [
+        "Gemini-2.5-Flash (FC)"
+      ]
+    },
+    "clarification": {
+      "pareto_count": 22,
+      "profile_winners": {
+        "balanced": [
+          "xLAM-2-32b-fc-r (FC)"
+        ],
+        "quality_focused": [
+          "xLAM-2-70b-fc-r (FC)"
+        ],
+        "resource_focused": [
+          "xLAM-2-32b-fc-r (FC)"
+        ]
+      },
+      "illustrative_screen_feasible_count": 0,
+      "illustrative_screen_winners": []
+    }
+  },
+  "verification": {
+    "input_hash": "passed",
+    "pareto_direction_and_duplicate_checks": "passed",
+    "positive_weight_winners_nondominated": "passed",
+    "selection_shares_sum_to_one": "passed",
+    "manual_score_spot_check": "passed"
+  },
+  "limitations": [
+    "Snapshot screening, not confirmation of current endpoint availability.",
+    "All weights and thresholds are illustrative; no group elicitation has occurred.",
+    "Benchmark-wide cost and P95 latency are not workflow-specific operating metrics.",
+    "Benchmark accuracy is not deployment success probability or output determinism.",
+    "Selection share depends on the specified preference grid and tie handling; it is not empirical probability.",
+    "Linear resource scales use observed eligible-set anchors and are sensitive to range/outliers."
+  ]
+}
