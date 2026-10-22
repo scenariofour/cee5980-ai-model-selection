@@ -30,6 +30,14 @@ No individual ownership is assigned here yet. At the start of a task, state the 
 - Next: teammates open the extracted folder in Codex, read the three onboarding files, connect GitHub and select one of the bounded tasks above.
 - Open: teammate task ownership and actual preference inputs remain to be decided.
 
+### 2026-10-21 — work/scenariofour/canonical-workspace
+
+- Files: AGENTS.md, .gitignore, HANDOFF.md, CHANGELOG.md; local filesystem organization.
+- Completed: consolidated the owner's project into one designated desktop checkout, retaining Git history and private materials. Removed the identical starter-folder copy; retained chat deliverable access through links to the canonical files. Archived earlier drafting intermediates privately and retained the existing dependency environment.
+- Validation: compared both starter folders byte-for-byte before removal; verified report identity before linking, repository history/remote continuity and deliverable links.
+- Next: open the designated folder for future tasks; fetch integrated changes and select the next analysis task. Teammates continue with their own local copies and PRs.
+- Analysis: no code, input data or numerical results changed.
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.

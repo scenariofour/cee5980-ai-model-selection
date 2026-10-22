@@ -17,3 +17,9 @@ work/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Per-computer workspace and distribution artifacts
+.local/
+LOCAL_WORKSPACE.md
+deliverables/
+exports/
