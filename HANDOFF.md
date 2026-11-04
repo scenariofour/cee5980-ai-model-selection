@@ -62,7 +62,7 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Validation: raw SHA256 matches the manifest; Overall Acc reproduced for 109/109 rows with weights 10/10/10/30/40; worked balanced score 0.8731 matches the saved output; exclusion reasons (43, all from the suffix rule), FC-flag mismatches, cost types (27 API, 39 GPU estimate), licence and range counts recounted from the files. Live leaderboard and blog pages were read only through search-indexed text.
 - Open for the active analysis editor (Member B now): decide the mode rule for the 7 rows in guide section 8.2 (GLM-4.6 (FC thinking) would make the clarification screen non-empty) and a validity rule for the two 0%/100% rows in section 8.3. Commercial-use and cost-type restrictions are left as labelled options for Member C, not applied.
 - Next: Member B reviews sections 3 to 8 as cross-reviewer; Member A drafts the private context/data/limitations section and later reviews Member C's sensitivity assumptions.
-- PR: PR_URL
+- PR: [#6](https://github.com/scenariofour/cee5980-ai-model-selection/pull/6).
 
 ### Entry template
 
