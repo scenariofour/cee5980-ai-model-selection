@@ -54,6 +54,18 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Next: each teammate claims one role with their GitHub handle and starts its first bounded deliverable. A maintainer reviews this plan before merging; this branch entry is not integrated context until merged.
 - PR: [#5](https://github.com/scenariofour/cee5980-ai-model-selection/pull/5).
 
+### 2026-11-04 — work/XinruiXu729/member-b-decision-verification
+
+- Owner: XinruiXu729. Role claimed: Member B; initial active analysis editor for this task.
+- Files: docs/DECISION_METHODS_AND_EXAMPLES.md, scripts/verify_baseline.py, results/member_b_verification.json, results/member_b_reproduction.json, CHANGELOG.md and this handoff entry.
+- Starting state: clean main fast-forwarded to canonical 3acb4a3. Review Member A's unmerged source-audit branch separately; preserve its ownership and changes.
+- Completed: reproduced the baseline; added an independent standard-library audit and methods/results prose with four worked selection cases, all-tie policies and three explicitly hypothetical task-call illustrations. Cross-reviewed Member A's PR #6 at b117bd4 against frozen rows and BFCL source checkpoint f7cf735, including seven mode-label disagreements and two all-zero call-score rows; recorded caveats without silently changing eligibility.
+- Validation: python analysis.py completed in an isolated requirements-compatible environment; all 16 existing generated artifacts stayed byte-identical. All six notebook code cells executed without errors in an ignored copy. Independent audit verified every eligible consequence, score/rank/Pareto flag, all optima, 1,771 weight vectors and 1,071 requirement pairs per workflow; 30/22 Pareto and 14/0 feasible counts confirmed. Reviewed all three figures, ten documented consequence rows, local links and hypothetical schema/call validity. No analytical code, input, weights, requirements or prior generated outputs changed.
+- Review findings: the zero clarification shortlist is conditional on the suffix-based baseline; excluded GLM-4.6 (FC thinking) passes the four frozen requirements. Do not infer failed-run causes solely from zero scores. Member A should refresh its present-tense leaderboard date claim (live page now says 2026-04-12). Pareto-first grid shares omit dominated configurations that would tie at two/four zero-weight boundary vectors; no current Pareto-grid or threshold-grid optimum is tied.
+- Handoff to C: no arithmetic correction is needed before working from the existing baseline. After maintainer review of this PR, Member B releases the active shared-code editor role; Member C fetches the integrated handoff before editing shared code. Candidate/validity-rule changes still require an explicit reviewed decision; scale/extreme-row experiments must remain labelled and genuine preference inputs remain private/pending.
+- Next: Member C cross-checks these examples, then performs the planned bounded robustness comparisons; Member A reviews the source comments and integrates its own guide via PR. This branch is not merged and does not claim group preference review is complete.
+- PR: [#7](https://github.com/scenariofour/cee5980-ai-model-selection/pull/7).
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.
