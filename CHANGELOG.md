@@ -1,5 +1,9 @@
 # Change log
 
+## Plan three-person project completion
+
+Added WORK_PLAN.md with proposed roles for BFCL evidence, decision-model verification/practical examples, and robustness/preference review. Each role owns analytical writing and cross-review; shared analysis code has a sequential handoff. Linked the plan from README, onboarding and handoff. Checked saved-result claims, documentation links, dependencies and public/private boundaries. Assignments and feedback are not assumed confirmed. No analytical assumptions, code or numerical outputs changed.
+
 ## Clarify completed analysis and reporting
 
 Updated README with the decision case, completed quantitative work, direct result links and remaining preference review. Independently checked the recorded numerical results. Reviewed the private progress update against its assignment prompt and verified one-page local and native layouts. No analysis code, data or numerical outputs changed.
