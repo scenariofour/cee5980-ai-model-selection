@@ -52,6 +52,7 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Validation: checked baseline claims against saved results, local documentation links, file ownership/dependencies, privacy exclusions and the scoped diff. No analysis, notebook, source data or numerical outputs changed; experiments were not rerun for this documentation task.
 - Open: teammate role claims and genuine preference responses remain pending. Private course requirements, response records and submission drafts remain excluded.
 - Next: each teammate claims one role with their GitHub handle and starts its first bounded deliverable. A maintainer reviews this plan before merging; this branch entry is not integrated context until merged.
+- PR: [#5](https://github.com/scenariofour/cee5980-ai-model-selection/pull/5).
 
 ### Entry template
 
