@@ -1,0 +1,86 @@
+{
+  "status": "passed",
+  "source_sha256": "ede5081a24bc5ac7f9b3b09a52af6bcfcd35aa0f1709239fed979db77a8159a6",
+  "raw_configurations": 109,
+  "eligible_configurations": 66,
+  "checks": [
+    "frozen source hash and counts",
+    "every eligibility flag and eligible consequence",
+    "value anchors, ranges and score directions",
+    "pairwise Pareto sets and duplicate policy",
+    "every profile score, competition rank and tied optimum",
+    "all Pareto-only preference-grid allocations including zero-weight ties",
+    "every threshold-grid feasible count, representative and all tied optima"
+  ],
+  "workflows": {
+    "structured": {
+      "pareto_count": 30,
+      "profile_winners": {
+        "balanced": [
+          "xLAM-2-32b-fc-r (FC)"
+        ],
+        "quality_focused": [
+          "Hammer2.1-3b (FC)"
+        ],
+        "resource_focused": [
+          "Gemini-2.5-Flash-Lite (FC)"
+        ]
+      },
+      "screen_feasible_count": 14,
+      "screen_winners": [
+        "Gemini-2.5-Flash (FC)"
+      ],
+      "consequence_duplicate_groups": [],
+      "preference_vectors": 1771,
+      "pareto_grid_vectors_with_tied_winners": 0,
+      "vectors_where_dominated_candidates_would_also_tie_if_not_filtered": 2,
+      "threshold_pairs": 1071,
+      "threshold_ties": [],
+      "dominance_example": {
+        "dominator": "xLAM-2-32b-fc-r (FC)",
+        "dominated": "Gemini-3-Pro-Preview (FC)"
+      },
+      "worked_balanced_score": 0.873132206849922,
+      "screen_failure_counts_nonexclusive": {
+        "workflow": 13,
+        "avoidance": 32,
+        "cost": 7,
+        "latency": 29
+      }
+    },
+    "clarification": {
+      "pareto_count": 22,
+      "profile_winners": {
+        "balanced": [
+          "xLAM-2-32b-fc-r (FC)"
+        ],
+        "quality_focused": [
+          "xLAM-2-70b-fc-r (FC)"
+        ],
+        "resource_focused": [
+          "xLAM-2-32b-fc-r (FC)"
+        ]
+      },
+      "screen_feasible_count": 0,
+      "screen_winners": [],
+      "consequence_duplicate_groups": [],
+      "preference_vectors": 1771,
+      "pareto_grid_vectors_with_tied_winners": 0,
+      "vectors_where_dominated_candidates_would_also_tie_if_not_filtered": 4,
+      "threshold_pairs": 1071,
+      "threshold_ties": [],
+      "dominance_example": {
+        "dominator": "xLAM-2-32b-fc-r (FC)",
+        "dominated": "Gemini-3-Pro-Preview (FC)"
+      },
+      "worked_balanced_score": 0.821452206849922,
+      "screen_failure_counts_nonexclusive": {
+        "workflow": 63,
+        "avoidance": 32,
+        "cost": 7,
+        "latency": 29
+      }
+    }
+  },
+  "interpretation": "Verification of the declared suffix-based baseline, not validation of deployment suitability or participant preferences."
+}

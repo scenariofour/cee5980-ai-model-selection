@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-04",
+  "baseline_main": "3acb4a3",
+  "command": "python analysis.py",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "matplotlib": "3.11.2"
+  },
+  "requirements_check": "pip check: No broken requirements found",
+  "machine_readable_and_text_comparison": "passed",
+  "csv_abs_tolerance": 1e-10,
+  "csv_rel_tolerance": 1e-12,
+  "verified_baseline_artifacts": [
+    "PRELIMINARY_RESULTS.md",
+    "data/eligible_configurations.csv",
+    "results/clarification_consequence_and_rankings.csv",
+    "results/clarification_pareto_set.csv",
+    "results/cross_configuration_correlations.csv",
+    "results/descriptive_statistics.csv",
+    "results/eligibility_audit.csv",
+    "results/preference_grid_selection_shares.csv",
+    "results/structured_consequence_and_rankings.csv",
+    "results/structured_pareto_set.csv",
+    "results/summary.json",
+    "results/threshold_grid.csv",
+    "results/verification_report.json"
+  ],
+  "byte_different_artifacts": [],
+  "checked_in_generated_artifacts": "retained baseline bytes; no numerical or analytical change",
+  "figure_review": {
+    "status": "passed",
+    "files": [
+      "figures/01_pareto_tradeoffs.png",
+      "figures/02_preference_sensitivity.png",
+      "figures/03_requirement_sensitivity.png"
+    ],
+    "scope": "Inspected labels, legends, workflow panels and visible trade-off/selection/feasibility patterns; unchanged baseline images."
+  },
+  "notebook_execution": {
+    "executed_code_cells": 6,
+    "errors": 0,
+    "checked_in_notebook_modified": false
+  },
+  "member_a_cross_review": {
+    "pinned_commit": "f7cf735",
+    "config_file_sha256": "08f9a3dd16a6c8e9f6aec47d6f4ee19e062642c7fe74af71ea9032ba9af4354b",
+    "mismatches": [
+      {
+        "model": "GLM-4.6 (FC thinking)",
+        "source_fc": true,
+        "suffix_fc": false
+      },
+      {
+        "model": "BitAgent-Bounty-8B",
+        "source_fc": true,
+        "suffix_fc": false
+      },
+      {
+        "model": "Arch-Agent-32B",
+        "source_fc": true,
+        "suffix_fc": false
+      },
+      {
+        "model": "ToolACE-2-8B (FC)",
+        "source_fc": false,
+        "suffix_fc": true
+      },
+      {
+        "model": "Arch-Agent-3B",
+        "source_fc": true,
+        "suffix_fc": false
+      },
+      {
+        "model": "Arch-Agent-1.5B",
+        "source_fc": true,
+        "suffix_fc": false
+      },
+      {
+        "model": "Ministral-8B-Instruct-2410 (FC)",
+        "source_fc": false,
+        "suffix_fc": true
+      }
+    ],
+    "headline_max_absolute_error_percentage_points": 0.006749999999996703,
+    "eligible_cost_types": {
+      "token_priced": 27,
+      "gpu_time_estimate": 39
+    },
+    "explicit_source_config_key_aliases": {
+      "Claude-Haiku-4-5-20251001 (FC)": "claude-haiku-4-5-20251001-FC"
+    },
+    "source_files_sha256": {
+      "eval_runner.py": "b1033684908819ccb312d4d0e2c563359d69247412f00206013b2292b0e3ce81",
+      "eval_runner_helper.py": "7c756592af53eb54733989aa03a3fa87854f1c20dd566f3f10a770e17d25a9d7",
+      "model_config.py": "08f9a3dd16a6c8e9f6aec47d6f4ee19e062642c7fe74af71ea9032ba9af4354b",
+      "multi_turn_checker.py": "b3b787515eda3bf0e365e39634a8fc7f831763f010f716d35d86f96fd5aab1b5"
+    },
+    "source_display_name_matches_requiring_caution": [
+      [
+        "Claude-Haiku-4-5-20251001 (FC)",
+        0
+      ],
+      [
+        "Qwen3-235B-A22B-Instruct-2507 (Prompt)",
+        2
+      ],
+      [
+        "Qwen3-32B (FC)",
+        2
+      ],
+      [
+        "Qwen3-235B-A22B-Instruct-2507 (FC)",
+        2
+      ],
+      [
+        "Qwen3-32B (Prompt)",
+        2
+      ],
+      [
+        "Qwen3-8B (FC)",
+        2
+      ],
+      [
+        "Qwen3-30B-A3B-Instruct-2507 (FC)",
+        2
+      ],
+      [
+        "Qwen3-14B (FC)",
+        2
+      ],
+      [
+        "Qwen3-8B (Prompt)",
+        2
+      ],
+      [
+        "Qwen3-14B (Prompt)",
+        2
+      ],
+      [
+        "Qwen3-30B-A3B-Instruct-2507 (Prompt)",
+        2
+      ],
+      [
+        "Qwen3-1.7B (FC)",
+        2
+      ],
+      [
+        "Claude-Haiku-4-5-20251001 (Prompt)",
+        0
+      ],
+      [
+        "Qwen3-0.6B (FC)",
+        2
+      ],
+      [
+        "Qwen3-0.6B (Prompt)",
+        2
+      ]
+    ],
+    "member_a_reviewed_branch_commit": "b117bd4",
+    "live_leaderboard_read_date": "2026-11-04",
+    "live_leaderboard_last_updated_text": "2026-04-12"
+  },
+  "documentation_checks": {
+    "raw_consequence_table_rows_verified": 10,
+    "hypothetical_schema_and_complete_call": "passed",
+    "missing_deadline_rejected": "passed",
+    "scope": "Hypothetical shape/format only, not model execution."
+  }
+}
