@@ -54,6 +54,16 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Next: each teammate claims one role with their GitHub handle and starts its first bounded deliverable. A maintainer reviews this plan before merging; this branch entry is not integrated context until merged.
 - PR: [#5](https://github.com/scenariofour/cee5980-ai-model-selection/pull/5).
 
+### 2026-11-03 — work/zilingyan110-lang/member-a-bfcl-guide
+
+- Owner: zilingyan110-lang. Role claimed: Member A.
+- Files: docs/BFCL_GUIDE.md (new), DATA_SOURCES.md, CHANGELOG.md, HANDOFF.md. No edits to analysis.py, the notebook, raw data or results.
+- Completed: source audit against the evaluation code the leaderboard names (`bfcl-eval==2025.12.17`); guide with plain-language definitions, real test entries, metric dictionary, Overall Acc/cost/latency formulas, worked row (xLAM-2-32b-fc-r) and eligibility/comparability audit with candidate-restriction options.
+- Validation: raw SHA256 matches the manifest; Overall Acc reproduced for 109/109 rows with weights 10/10/10/30/40; worked balanced score 0.8731 matches the saved output; exclusion reasons (43, all from the suffix rule), FC-flag mismatches, cost types (27 API, 39 GPU estimate), licence and range counts recounted from the files. Live leaderboard and blog pages were read only through search-indexed text.
+- Open for the active analysis editor (Member B now): decide the mode rule for the 7 rows in guide section 8.2 (GLM-4.6 (FC thinking) would make the clarification screen non-empty) and a validity rule for the two 0%/100% rows in section 8.3. Commercial-use and cost-type restrictions are left as labelled options for Member C, not applied.
+- Next: Member B reviews sections 3 to 8 as cross-reviewer; Member A drafts the private context/data/limitations section and later reviews Member C's sensitivity assumptions.
+- PR: [#6](https://github.com/scenariofour/cee5980-ai-model-selection/pull/6).
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.
