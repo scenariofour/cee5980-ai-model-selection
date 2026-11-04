@@ -14,6 +14,8 @@ Read PRELIMINARY_RESULTS.md, results/summary.json and analysis.py. All current w
 
 ## Next useful tasks
 
+[WORK_PLAN.md](WORK_PLAN.md) organizes these tasks into three proposed roles: BFCL evidence and explanation; decision-model verification and practical examples; and sensitivity plus preference-review interpretation. It includes file ownership, a sequential handoff for shared analysis code, review responsibilities and starter prompts. Confirm a role with your GitHub handle before editing; the plan does not establish accepted assignments or actual contributions.
+
 1. Reproduce and inspect the source definitions and candidate comparability.
 2. Check alternate value scales/outlier treatment and a narrower practical candidate set.
 3. Obtain short, genuine preference statements from the actual design team through a private log, review trade-offs and document resulting revisions.

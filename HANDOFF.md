@@ -13,7 +13,7 @@ All current weights and thresholds are illustrative. Actual group preference fee
 
 ## Next useful work
 
-No individual ownership is assigned here yet. At the start of a task, state the selected task and files in your branch's entry; avoid two simultaneous editors of analysis.py.
+The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual role claims remain to be confirmed. At the start of a task, state your GitHub handle, selected role/task and files in your branch's entry; avoid two simultaneous editors of analysis.py. Member B verifies the baseline before handing shared analysis editing to Member C for sensitivity work.
 
 1. Reproduce the baseline and audit source metric definitions and candidate comparability.
 2. Test sensitivity to value scales/outliers and a narrower practical candidate set.
@@ -44,6 +44,15 @@ No individual ownership is assigned here yet. At the start of a task, state the 
 - Completed: clarified the decision, completed analyses, result-file links and remaining preference review in README. Revised the private one-page update to address amendments, resources, progress against the original plan and next milestones. Applied localized Humanizer prose editing while preserving analytical claims.
 - Validation: independently rechecked source integrity, 109/66 configuration counts, Pareto counts of 30/22, 14/0 feasible configurations and 1,771/1,071 sensitivity-grid sizes. Verified report content against computed results; rendered both local and native document versions as one page. Public links and private exclusions checked. No analytical results changed.
 - Next: finish participant preference review and the bounded sensitivity refinements listed above. The owner will complete remaining private submission identity fields; each member uses their own submission copy.
+
+### 2026-11-03 — work/scenariofour/three-person-completion-plan
+
+- Files: WORK_PLAN.md, README.md, ONBOARDING.md, HANDOFF.md, CHANGELOG.md.
+- Completed: added a public three-role completion plan with technical deliverables, section writing, cross-review, acceptance checks, internal targets and Codex starter prompts. Roles are proposed and use neutral labels until teammates claim them; shared analysis editing passes from baseline verification to sensitivity work.
+- Validation: checked baseline claims against saved results, local documentation links, file ownership/dependencies, privacy exclusions and the scoped diff. No analysis, notebook, source data or numerical outputs changed; experiments were not rerun for this documentation task.
+- Open: teammate role claims and genuine preference responses remain pending. Private course requirements, response records and submission drafts remain excluded.
+- Next: each teammate claims one role with their GitHub handle and starts its first bounded deliverable. A maintainer reviews this plan before merging; this branch entry is not integrated context until merged.
+- PR: [#5](https://github.com/scenariofour/cee5980-ai-model-selection/pull/5).
 
 ### Entry template
 

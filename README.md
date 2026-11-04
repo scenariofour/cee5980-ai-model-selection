@@ -12,6 +12,8 @@ Clone this repository or open its folder in Codex, then ask:
 
 A public repository allows anyone to clone and inspect the project. Pushing to it requires collaborator write access; otherwise use a personal fork and PR. Each teammate signs in to their own GitHub account once. AGENTS.md delegates routine Git operations to Codex; it cannot guarantee conflict-free concurrent edits.
 
+For the proposed three-person work split, deliverables, acceptance checks and role-specific Codex prompts, read [WORK_PLAN.md](WORK_PLAN.md). Each role includes analytical work, writing and cross-review; teammates claim roles with their GitHub handles before starting.
+
 ## Reproduce
 
 Use Python 3 with requirements.txt, then run `python analysis.py`; or execute `analysis.ipynb` from this directory. The notebook expects analysis.py and data/ alongside it. No API key, paid inference, model training or external interviews are required for the core analysis. environment_used.json records versions used for the included run.
