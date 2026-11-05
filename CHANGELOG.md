@@ -1,5 +1,11 @@
 # Change log
 
+## Member C sensitivity extension — 2026-11-05
+
+Added an independent sensitivity runner, numerical counterexample tests, four result tables, a preference-path figure and docs/SENSITIVITY_AND_REVIEW.md. Eight pre-specified scenarios compare linear/log resource values and extreme-row omissions with frozen versus recomputed anchors. All six fixed-anchor omission winners remain stable; log scales change four of six; reanchoring after maximum-cost/union omission changes the structured resource-focused choice. Analytic paths preserve switch-point ties. Requirement diagnostics explain the empty clarification set and raw first-feasible boundaries without adopting relaxed limits. Cross-checked Member B's examples and prepared private, unfilled preference questions; actual review remains incomplete.
+
+Frozen inputs, baseline eligibility, profiles, requirements, shared code/notebook and prior artifacts remain unchanged. No narrower practical candidate rule is adopted while A/B's proposals are unmerged. Validation: baseline reproduction with 18 existing artifacts byte-identical, seven numerical tests, 3,120 independent scalar scenario scores, Pareto checks, complete baseline preference/requirement-grid checks, 3,996 path-point checks, requirement-boundary verification, new-figure review, dependency/compilation and documentation/diff checks. See results/member_c_verification.json and the dated handoff entry.
+
 ## Plan three-person project completion
 
 Added WORK_PLAN.md with proposed roles for BFCL evidence, decision-model verification/practical examples, and robustness/preference review. Each role owns analytical writing and cross-review; shared analysis code has a sequential handoff. Linked the plan from README, onboarding and handoff. Checked saved-result claims, documentation links, dependencies and public/private boundaries. Assignments and feedback are not assumed confirmed. No analytical assumptions, code or numerical outputs changed.

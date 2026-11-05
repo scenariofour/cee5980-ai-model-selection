@@ -54,6 +54,17 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Next: each teammate claims one role with their GitHub handle and starts its first bounded deliverable. A maintainer reviews this plan before merging; this branch entry is not integrated context until merged.
 - PR: [#5](https://github.com/scenariofour/cee5980-ai-model-selection/pull/5).
 
+### 2026-11-05 — work/scenariofour/member-c-sensitivity
+
+- Owner: scenariofour. Role claimed: Member C, as assigned by the user. Started from clean canonical main at 3acb4a3 after fetching A/B's pending branches.
+- Files: sensitivity.py, tests/test_sensitivity.py, docs/SENSITIVITY_AND_REVIEW.md, results/robustness_comparisons.csv, three results/sensitivity_*.csv tables, results/member_c_verification.json, figures/04_preference_paths.png, CHANGELOG.md and this entry. Private blank preference questions remain in ignored deliverables/member_c/.
+- Completed: specified eight scenarios before computation; produced 48 scale/extreme-observation profile comparisons, analytic switching intervals with explicit tied boundaries, requirement-failure partitions and first-feasible boundaries. Added public robustness/review/theory prose and cross-reviewed B's examples at 6b5f761. Prepared identical private questions without inventing responses. Shared analysis.py/notebook and baseline artifacts are unchanged; B's shared-code handoff awaits review/integration of PR #7.
+- Findings: fixed-anchor extreme omissions preserve all six profile/workflow winners. Log resource scales change four of six; cost/union omission with reanchoring changes the structured resource-focused winner. Clarification first becomes feasible at a performance floor of 58% or P95 ceiling of 17.66 s when varying that requirement alone; original requirements remain in force. All results are conditional on the existing suffix-based candidate rule.
+- Validation: python analysis.py passed and all 18 pre-existing data/result/figure/preliminary artifacts stayed byte-identical. Seven synthetic numerical tests passed; independently checked 3,120 scalar scenario scores, baseline Pareto membership (30/22), all 1,771 preference vectors and 1,071 requirement pairs per workflow, 3,996 interior path points, boundary ties and requirement partitions. Reviewed the new figure. pip check, Python compilation, documentation links and diff whitespace checks passed.
+- Open: actual participant responses/review, candidate/validity-rule decisions from A/B, and integration of their unmerged PRs. This extension does not release B's shared-code ownership or establish group consensus.
+- Next: A/B review the sensitivity assumptions and outputs; collect three real private preference responses, freeze confirmed comparison inputs, then rerun only approved revisions. Maintainer integrates reviewed PRs and consolidates artifacts.
+- PR: pending publication.
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.

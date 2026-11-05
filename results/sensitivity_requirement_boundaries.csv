@@ -1,0 +1,9 @@
+workflow,requirement,original_limit,other_three_pass_count,first_feasible_boundary,boundary_models,original_screen_feasible_count
+structured,structured,60.0,20,76.83,"[""Claude-Opus-4-5-20251101 (FC)""]",14
+structured,avoidance,80.0,25,93.67,"[""Gemini-2.5-Flash (FC)""]",14
+structured,benchmark_cost,100.0,17,0.46,"[""Qwen3-0.6B (FC)""]",14
+structured,p95_latency,15.0,22,0.96,"[""Qwen3-0.6B (FC)""]",14
+clarification,clarification,60.0,20,58.0,"[""Claude-Opus-4-5-20251101 (FC)""]",0
+clarification,avoidance,80.0,0,,[],0
+clarification,benchmark_cost,100.0,0,,[],0
+clarification,p95_latency,15.0,1,17.66,"[""xLAM-2-32b-fc-r (FC)""]",0
