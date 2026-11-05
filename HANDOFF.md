@@ -63,7 +63,7 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Validation: python analysis.py passed and all 18 pre-existing data/result/figure/preliminary artifacts stayed byte-identical. Seven synthetic numerical tests passed; independently checked 3,120 scalar scenario scores, baseline Pareto membership (30/22), all 1,771 preference vectors and 1,071 requirement pairs per workflow, 3,996 interior path points, boundary ties and requirement partitions. Reviewed the new figure. pip check, Python compilation, documentation links and diff whitespace checks passed.
 - Open: actual participant responses/review, candidate/validity-rule decisions from A/B, and integration of their unmerged PRs. This extension does not release B's shared-code ownership or establish group consensus.
 - Next: A/B review the sensitivity assumptions and outputs; collect three real private preference responses, freeze confirmed comparison inputs, then rerun only approved revisions. Maintainer integrates reviewed PRs and consolidates artifacts.
-- PR: pending publication.
+- PR: [#8](https://github.com/scenariofour/cee5980-ai-model-selection/pull/8); open for review, not merged.
 
 ### Entry template
 

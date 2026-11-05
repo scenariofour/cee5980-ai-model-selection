@@ -6,7 +6,7 @@ Member C: scenariofour. Experiment protocol recorded on 2026-11-05 before runnin
 
 - [x] Specify comparisons and prepare the same private preference questions for all participants.
 - [x] Run reproducible scale/extreme-observation comparisons, explain switching and infeasibility, and cross-check Member B's examples.
-- [ ] Verify outputs, record limitations and publish a task-branch PR for review.
+- [x] Verify outputs, record limitations and publish [PR #8](https://github.com/scenariofour/cee5980-ai-model-selection/pull/8) for review.
 
 ## Scope and ownership
 
@@ -134,7 +134,7 @@ None of these diagnostic alternatives replaces the original requirements. All co
 
 ## Cross-review of Member B
 
-Reviewed the unmerged Member B [PR #7](https://github.com/scenariofour/cee5980-ai-model-selection/pull/7), specifically its `docs/DECISION_METHODS_AND_EXAMPLES.md` and handoff. This cross-review does not claim maintainer approval or integration.
+Reviewed the unmerged Member B [PR #7](https://github.com/scenariofour/cee5980-ai-model-selection/pull/7) at `6b5f7615259703f8ae928e9e6957360f181061fa`, specifically its `docs/DECISION_METHODS_AND_EXAMPLES.md` and handoff. This cross-review does not claim maintainer approval or integration.
 
 The reproduced consequences, all profile optima, 14/0 screen counts and failure counts agree with its four worked cases. Independent scalar scoring of the new comparisons also checks the unchanged baseline scores. The new path calculation confirms B's small resource-profile margin and explains how little movement along that path reverses the structured selection. Its hypothetical `create_task` examples remain illustrations without observed-model validation; a screened or additive winner must not be described as tested on those requests.
 
