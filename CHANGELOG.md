@@ -1,5 +1,11 @@
 # Change log
 
+## Research-backed preference-elicitation protocol — 2026-11-05
+
+Added docs/PREFERENCE_ELICITATION_PROTOCOL.md and linked it from Member C's interpretation. The protocol distinguishes exploratory short-form responses from confirmed quantitative inputs, separates the three team members from optional outside convenience-sample respondents, specifies fixed-range swing ratings and inclusive hard cutoffs, and documents confirmation, missing/unresolved/zero handling and matched after-result review. Based on directly checked AAPOR, Pew, Census and government MCDA guidance, with the distinction between the 2024 public-appraisal cost policy and this course-study cost criterion made explicit.
+
+Prepared and published a separate 23-question, five-section English research pilot; its form links, wording, empty input template and validation notes remain private in ignored deliverables/member_c/. Checked all five pages without submitting a test response, restored the blank draft, checked privacy/navigation settings, and verified question counts/types, fixed anchors, document references and the scoped diff. Actual human cognitive pretesting, confirmed participant inputs and after-result review remain pending. No analysis code, raw data, numerical results or existing short-form answers changed.
+
 ## Member C sensitivity extension — 2026-11-05
 
 Added an independent sensitivity runner, numerical counterexample tests, four result tables, a preference-path figure and docs/SENSITIVITY_AND_REVIEW.md. Eight pre-specified scenarios compare linear/log resource values and extreme-row omissions with frozen versus recomputed anchors. All six fixed-anchor omission winners remain stable; log scales change four of six; reanchoring after maximum-cost/union omission changes the structured resource-focused choice. Analytic paths preserve switch-point ties. Requirement diagnostics explain the empty clarification set and raw first-feasible boundaries without adopting relaxed limits. Cross-checked Member B's examples and prepared private, unfilled preference questions; actual review remains incomplete.

@@ -37,6 +37,8 @@ Explain screen infeasibility with overlapping per-requirement failure counts and
 
 ## Preference-review procedure
 
+For the research-backed English instrument, team/outside-participant separation, swing-weight confirmation and analysis rules, follow [PREFERENCE_ELICITATION_PROTOCOL.md](PREFERENCE_ELICITATION_PROTOCOL.md). The earlier short form is exploratory; it does not by itself supply confirmed weights or numeric cutoffs. The new research instrument is a pilot awaiting human comprehension testing, not evidence that participant review has occurred.
+
 Give every participant the same private questions: workflow and task; objectives/metric relevance; essential versus negotiable limits; valued changes over the stated consequence ranges; and reasons. Record date, participant identity privately, and prior exposure to preliminary winners. Ask about ranges and trade-offs before proposing weights. Do not interpret a casual importance ranking as additive swing weights.
 
 Freeze confirmed inputs and their version before a designated comparison. Then show the same consequence tables and trade-offs, ask what surprised participants and what they retain or revise, and record the reason and any disagreement. Distinguish revisions to objectives, proxies, scales, candidates, weights and requirements. Prior exploratory results rule out claiming fully blind initial elicitation. No real answers have been collected in this task; the private blank form is preparation, not evidence of review or consensus.

@@ -65,6 +65,15 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Next: A/B review the sensitivity assumptions and outputs; collect three real private preference responses, freeze confirmed comparison inputs, then rerun only approved revisions. Maintainer integrates reviewed PRs and consolidates artifacts.
 - PR: [#8](https://github.com/scenariofour/cee5980-ai-model-selection/pull/8); open for review, not merged.
 
+### 2026-11-05 — work/scenariofour/member-c-sensitivity — preference research
+
+- Owner: scenariofour, Member C. Files: docs/PREFERENCE_ELICITATION_PROTOCOL.md, a scoped link in docs/SENSITIVITY_AND_REVIEW.md, CHANGELOG.md and this entry. Live form links, instrument wording, empty input templates and research notes remain in ignored deliverables/member_c/.
+- Completed: reviewed primary AAPOR/Pew/Census and government MCDA guidance; documented a question-to-analysis map, swing-weight and hard-cutoff procedure, confirmation gate and matched review. Added explicit separation of team decision participants from optional outside respondents. A separate 23-question English pilot is published; the eight-question form remains exploratory.
+- Validation: instrument has five sections, nine short-answer fields, three paragraphs and eleven multiple-choice questions. Checked the saved form after reconnecting, traversed all five live pages using a labelled unsubmitted UI draft, checked NONE/DISCUSS/blank input paths, cleared that draft and observed zero submitted responses. Email collection and public response summaries are off. Checked English wording, anchors against summary.json, source/local links and diff scope. No experiments rerun for this documentation task; analytical inputs and outputs are unchanged.
+- Open: actual human comprehension pilot and completion-time measurement, production wording freeze, actual responses and explicit individual input confirmation. Outside answers without follow-up remain exploratory. No scoring rubric was present among the available private references, so no claim of guaranteed grading compliance is made.
+- Next: one comparable student explains the cost, P95, cutoff and swing-rating questions in their own words; revise/version the pilot if needed, then collect responses. Confirm full input cards before a designated comparison and document actual revisions after results are shown.
+- PR: continues [#8](https://github.com/scenariofour/cee5980-ai-model-selection/pull/8); not merged.
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.
