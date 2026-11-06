@@ -1,26 +1,29 @@
 # Preference elicitation and survey analysis protocol
 
-Version: pilot-1.0, 2026-11-05. This protocol supplements [Member C's sensitivity analysis](SENSITIVITY_AND_REVIEW.md); it does not change the frozen data, eligibility, illustrative weights or requirements. The research question remains how decision framing, preference timing and sensitivity affect a model shortlist, and how genuine review can revise that frame.
+Version: public-pilot-2.0, 2026-11-05. This protocol supplements [Member C's sensitivity analysis](SENSITIVITY_AND_REVIEW.md); it does not change the frozen data, eligibility, illustrative weights or requirements. The research question remains how decision framing, preference timing and sensitivity affect a model shortlist, and how genuine review can revise that frame.
 
-## What the earlier short questionnaire can support
+## Two parts with different purposes
 
-The eight-question plain-English form is an exploratory discussion aid. A top priority, qualitative deal-breaker or hypothetical A/B choice does not identify four cardinal weights, benchmark cutoffs or acceptable value functions. Do not convert those responses directly into an additive recommendation. More questions alone do not solve this identification problem.
+The current general-audience English survey requires no project knowledge. It collects descriptive preferences and choices between hypothetical models. A separate facilitated team session elicits and confirms the quantitative inputs needed for a model recommendation. A top priority, generic importance rating or hypothetical A/B choice does not identify four cardinal weights, benchmark cutoffs or acceptable value functions. Do not convert public-survey responses directly into an additive recommendation. More questions alone do not solve this identification problem.
 
-The research pilot adds a link between requested evidence and the planned analysis:
+The public survey has this question-to-analysis map:
 
 | Evidence collected | Intended use | Required qualification |
 | --- | --- | --- |
-| Participant code, relationship to the project, selected workflow and prior exposure | Match later review and separate decision participants from outside perspectives | One workflow per response; unknown group membership is a separate stratum |
-| Unprompted objectives before the supplied metric list | Identify omissions in the decision frame | Qualitative coding with original responses retained privately |
-| Metric definitions and comprehension responses | Check that participants distinguish benchmark proxies from deployment quantities | Clarify misunderstandings; never silently reinterpret a budget or waiting-time answer |
-| Four numeric hard cutoffs, NONE or DISCUSS | Screen candidates before compensatory ranking | Numeric bounds are inclusive; missing and unresolved answers are not “no limit” |
-| One reference improvement and four relative ratings over stated ranges | Derive provisional swing weights | Ratings require discussion and participant confirmation before an individual model run |
-| Linear-scale and compensation responses, rationale, readiness | Identify objections to the proposed additive model | A disagreement is a result to discuss, not an error to remove |
-| Later confirmed input version and revisions after viewing consequences | Describe retained and changed framing/preferences | A form submission alone is not a frozen comparison or completed constructive review |
+| Q1: team membership; Q2: AI-assistant use in the past 30 days | Describe respondents; keep team, outside and undisclosed membership separate | No personal identifier is requested; this survey cannot match individuals across phases |
+| Q3–6: importance of matching requests, acting only when asked, time and price | Report ordered response distributions for each feature | Ordinal categories, not cardinal weights; “Not sure” is distinct from low importance and skipped answers |
+| Q7: accuracy versus time; Q8: accuracy versus price | Describe choices at the stated trade-offs | Both other features are held equal; invented examples, not observations of real models |
+| Q9: unrequested task creation versus time; Q10: unrequested task creation versus price | Describe tolerance for this action in two distinct comparisons | Denominator is 100 requests that did not ask for task creation; do not mix with task-request accuracy |
+| Q11: what to do when a deadline is omitted | Identify workflow-framing preferences and disagreements | The hypothetical app permits tasks without deadlines; this is not a correctness test or an automatic benchmark-rule revision |
+| Q12: longest generally acceptable wait | Report waiting-time categories and context dependence | Interval data; do not impute midpoints or map personal waiting time to benchmark P95 |
+| Q13: response when no assistant meets all preferences | Describe willingness to defer choice or investigate trade-offs | These are stated intentions, not observed decisions or accepted threshold relaxations |
+| Q14: optional comment on other considerations or unclear wording | Code omitted objectives and comprehension concerns | Prompt follows supplied features, so it is not an unprompted objectives measure |
+
+Four paired choices are not a full factorial or conjoint design and do not identify a four-criterion cardinal utility model. Keep Model A, Model B, no preference, neither and insufficient information as separate categories for every comparison. The quality/action-avoidance advantage appears under A twice and B twice; labels are fixed, not randomly assigned. Do not claim experimental counterbalancing or infer stable preference parameters from these four choices alone.
 
 ## Methodological basis
 
-Questions should be specific, neutral and answerable, with distinct alternatives and clear units; one response should not ambiguously evaluate different constructs. Keep wording stable when comparing phases. These choices follow [Pew Research Center's question-design guidance](https://www.pewresearch.org/writing-survey-questions/). The open objectives question precedes the metric prompts to reduce prompting effects.
+Questions should be specific, neutral and answerable, with distinct alternatives and clear units; one response should not ambiguously evaluate different constructs. Keep wording stable when comparing phases. These choices follow [Pew Research Center's question-design guidance](https://www.pewresearch.org/writing-survey-questions/). The public survey uses one concrete to-do-list situation, a fully labelled importance scale, definitions before model comparisons, and explicit uncertain/no-choice alternatives. The facilitated team session asks about objectives before supplying the metric list to reduce prompting effects.
 
 [AAPOR's best-practice guidance](https://aapor.org/standards-and-ethics/best-practices/) supports planning from the research objective, allowing unresolved responses, separating missing answers from substantive alternatives, and pretesting before fieldwork. Our operational choice is a versioned pilot plus a short human think-aloud check; a successful browser check is not evidence of human comprehension. [US Census questionnaire-testing guidance](https://www.census.gov/about/policies/quality/standards/appendixa2.html) distinguishes expert review from respondent-based testing.
 
@@ -28,15 +31,23 @@ The [Government Analysis Function's 2024 MCDA guide](https://analysisfunction.ci
 
 ## Instrument and administration
 
-The new English instrument has 23 questions in five sections: perspective; metric definitions and comprehension; hard cutoffs; range-specific improvements; assumptions/readiness. Completion time of 10–15 minutes is an estimate to check in the pilot. Numeric questions permit a blank or an explicit request for discussion. No default weights or illustrative cutoff answers are supplied. Compensation acceptance and dependence on other measurements are asked separately.
+The current public English instrument, “Choosing an AI Task Assistant: Your Preferences”, has 14 questions in three sections: preferences; definitions and model comparisons; further comparisons and situations. Thirteen questions are multiple choice and the last is an optional paragraph. All questions may be skipped. It defines artificial intelligence (AI), AI model, correct result, unrequested task creation, example time and example price. It does not ask about project results, technical workflow labels, benchmark metrics, participant codes or numerical weights. The 5–7 minute completion estimate awaits human measurement. Examples are explicitly imaginary; price is USD per 100 requests, not a subscription or actual benchmark cost.
 
-The same instrument may be offered to the three design-team members and optional outside participants. Record which group each respondent belongs to and use a reusable code rather than full names, contact details or student identifiers. Reserve A/B/C for the team and use separate record identifiers to detect code collisions rather than assuming codes uniquely identify people. Outside participants can contact their inviter and quote their code to arrange clarification and confirmation; without this follow-up their answers remain exploratory. Collect only voluntary responses. Keep source answers, timestamps, codes, form links and filled logs outside public Git. A reusable code does not guarantee anonymity, especially within a three-person team.
+The same public survey may be offered to team members and optional outside participants. Membership is self-reported, with a “Prefer not to say” option. Do not infer who filled it out or retrospectively link anonymous answers. No email collection or sign-in requirement through a one-response limit is enabled, and public response summaries are off. This improves accessibility but does not ensure one response per person. Ask for one response per person, document recruitment and possible duplicates, and do not invent a way to identify unique people. Keep raw answers, timestamps, live links and filled logs outside public Git.
+
+The original 23-question technical pilot is archived privately and superseded for general-audience collection; zero submitted responses were observed before revision. Its quantitative content is reserved as a draft for the separate facilitated team module below. There, record the participant, selected workflow, prior exposure to project results and a dated input version privately. Codes may support agreed matched review, but do not guarantee anonymity within a three-person team. Define benchmark cost, P95, cutoffs, value scales and swing ratings before asking anyone to use them; explain these with examples and a teach-back check. No default participant weights or cutoff answers may be supplied.
 
 Recruitment outside the team is a convenience sample unless a different sampling design is actually implemented and documented. Extra respondents can reveal omitted objectives or explore a wider range of preferences; they do not automatically become the decision owners. Do not pool their answers into team weights or call the sample representative of users, enterprises or all students. Report counts and recruitment methods, not unsupported population claims. More outside responses cannot replace the actual team review required by [WORK_PLAN.md](../WORK_PLAN.md).
 
-The pilot must remain labelled as such. Ask a comparable student to explain, in their own words: what benchmark cost means; what P95 does and does not mean; what a cutoff does; and what a 50-point improvement rating means relative to 100. Record confusing wording and actual completion time. Correct and version the instrument before wider collection. Do not combine pilot and production responses silently or claim that agent review validated the questionnaire.
+The instrument remains a pilot in the study records. Ask a student unfamiliar with the project to explain the scenario, “correct result”, unrequested task creation, the price denominator and one A/B trade-off in their own words. Ask what was unclear and measure completion time. Correct and version the wording before wider collection. Do not combine instrument versions or pilot and production responses silently. Browser navigation and agent review are not human comprehension validation. In the facilitated module, separately check benchmark cost, P95, hard cutoffs and the meaning of a 50-point swing rating relative to 100.
 
-## Proposed scales and swing ratings
+## Public-survey analysis
+
+Preserve the exact instrument version, recruitment channel, collection phase and raw answers privately. Use a generated record ID for a response row, not a claim about a unique person. For each question report the number answering, category counts and percentages with that denominator; report skipped answers separately. Retain uncertain and undisclosed responses as explicit categories. Analyse the four importance items separately, without summing, averaging into an index or normalizing them into model weights. All four may be rated highly; that is a result, not a reason to force rankings.
+
+Describe each paired choice at its exact values. With sufficient counts, cross-tabulate by reported team membership or AI-use frequency and show cell counts; avoid unstable subgroup claims from tiny cells. The three team members' anonymous public answers cannot be matched to later individual decisions. Qualitative comments can identify omitted criteria, but do not silently add a criterion or change frozen thresholds. Q11 deliberately allows deadline omission, unlike the required-deadline schema in the separate task example; treat this as evidence about framing, not a failed comprehension answer. The survey supports descriptive analysis, not population estimates, causal effects, measured willingness to pay or benchmark-derived recommendations.
+
+## Facilitated team module: proposed scales and swing ratings
 
 Keep these baseline anchors fixed across elicitation, screening and ranking:
 
@@ -62,7 +73,7 @@ A reference rating of 100 and another of 50 imply that the latter full improveme
 
 Do not recompute resource anchors after an individual's hard screen. Changing ranges or replacing linear scales with log scales changes the interpretation of weights; reassess or explicitly justify any transfer. The illustrative same-weight log experiment in Member C's work is a sensitivity experiment, not evidence that a participant endorsed both scale systems.
 
-## Analysis and input freeze
+## Facilitated team analysis and input freeze
 
 1. Preserve raw responses and instrument version. Check duplicate participant/workflow responses without deleting history; distinguish a replacement from a separate workflow response. Keep team, outside and undisclosed groups separate.
 2. Code hard cutoffs as `numeric`, `none`, `discuss` or `missing`. Validate score cutoffs in [0,100] and resource cutoffs as finite nonnegative values. Inclusive minima use ≥ and inclusive maxima use ≤. Do not clip out-of-range values or interpret an app budget as a benchmark-cost limit.
@@ -91,4 +102,4 @@ Where before/after values are compared, retain the same measurement wording, wor
 
 ## Status and next step
 
-Research and instrument preparation are completed; actual participant elicitation, input confirmation and after-result review remain pending. The public protocol contains methods only. Live-form links and exact private instrument files remain in ignored `deliverables/member_c/`. Next: conduct a human cognitive pilot, freeze the production wording, obtain actual responses, confirm individual input cards and run only the resulting reviewable comparisons.
+Research and the general-audience form revision are completed; the human pilot, actual participant elicitation, quantitative input confirmation and after-result review remain pending. The public protocol contains methods only. Live-form links, the exact 14-question instrument, archived technical pilot and headers-only response templates remain in ignored `deliverables/member_c/`. Next: conduct a human cognitive pilot, freeze public production wording, collect descriptive responses, then separately facilitate and confirm the team's quantitative input cards before the designated model comparisons.

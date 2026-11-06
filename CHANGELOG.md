@@ -1,5 +1,11 @@
 # Change log
 
+## General-audience survey revision — 2026-11-05
+
+Revised the live English pilot for people with no project knowledge: one concrete task-assistant scenario, definitions before model comparisons, 13 multiple-choice questions and one optional comment, with all 14 questions skippable. Four hypothetical paired choices hold the other two features fixed and retain no-preference, neither and insufficient-information alternatives. The public protocol now maps every question to descriptive analysis and keeps ordinal ratings, waiting-time intervals and imagined prices separate from benchmark cutoffs and cardinal weights. Quantitative team elicitation remains a separate facilitated module; analytical assumptions and outputs are unchanged.
+
+Observed zero submitted responses before and after the revision, traversed all three published pages without answering or submitting, and verified the saved wording, question options, optional navigation and privacy settings. Preserved the superseded 23-question pilot privately and added the current instrument and an empty response template in ignored deliverables/member_c/. Human comprehension testing and actual completion-time measurement remain pending. Documentation/link and scoped-diff checks were run; experiments were not rerun for these method-only edits.
+
 ## Research-backed preference-elicitation protocol — 2026-11-05
 
 Added docs/PREFERENCE_ELICITATION_PROTOCOL.md and linked it from Member C's interpretation. The protocol distinguishes exploratory short-form responses from confirmed quantitative inputs, separates the three team members from optional outside convenience-sample respondents, specifies fixed-range swing ratings and inclusive hard cutoffs, and documents confirmation, missing/unresolved/zero handling and matched after-result review. Based on directly checked AAPOR, Pew, Census and government MCDA guidance, with the distinction between the 2024 public-appraisal cost policy and this course-study cost criterion made explicit.

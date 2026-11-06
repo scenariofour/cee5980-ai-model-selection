@@ -74,6 +74,15 @@ The proposed three-role split is in [WORK_PLAN.md](WORK_PLAN.md); individual rol
 - Next: one comparable student explains the cost, P95, cutoff and swing-rating questions in their own words; revise/version the pilot if needed, then collect responses. Confirm full input cards before a designated comparison and document actual revisions after results are shown.
 - PR: continues [#8](https://github.com/scenariofour/cee5980-ai-model-selection/pull/8); not merged.
 
+### 2026-11-05 — work/scenariofour/member-c-sensitivity — general-audience survey revision
+
+- Owner: scenariofour, Member C. Files: docs/PREFERENCE_ELICITATION_PROTOCOL.md, docs/SENSITIVITY_AND_REVIEW.md, CHANGELOG.md and this entry. Current/archived instrument copies, form links and empty response templates remain private in ignored deliverables/member_c/. Shared analysis.py, source data and generated numerical outputs were not edited.
+- Completed: replaced the technical live pilot with a 14-question English survey for respondents with no project knowledge; 13 multiple-choice questions plus one optional paragraph, all skippable. Added a concrete scenario, definitions and four imaginary model comparisons with the other two features fixed. Public methods specify a question-to-analysis map, per-question denominators and separate missing/uncertain/no-choice categories. Quantitative swing-weight/cutoff elicitation is reserved for a facilitated team session rather than inferred from generic importance answers.
+- Validation: observed zero submitted responses before and after editing; traversed all three live pages (5/3/6 questions) without answering or submitting and returned to blank page 1. Checked the saved title, glossary, all comparison choices, optional paragraph, email/sign-in settings and hidden public response summaries. Verified the English instrument structure, archived v1 preservation, headers-only response template, public documentation references, private exclusions and scoped whitespace diff. No experiments rerun; analysis inputs and outputs are unchanged.
+- Open: human comprehension pilot and actual completion time; final production wording; real responses; separately confirmed team inputs and matched after-result review. Four scenario choices do not identify cardinal weights or real willingness to pay, and outside convenience responses do not establish team consensus or population preferences.
+- Next: ask one person unfamiliar with the project to explain the scenario/terms and one paired choice in their own words; record confusing wording and elapsed time, then freeze the collection version. Analyse public responses descriptively; facilitate the team's quantitative inputs before recomputation.
+- PR: continues [#8](https://github.com/scenariofour/cee5980-ai-model-selection/pull/8); not merged.
+
 ### Entry template
 
 Copy this template for your own branch; preserve existing entries.
