@@ -1,0 +1,33 @@
+{
+  "source_sha256": "ede5081a24bc5ac7f9b3b09a52af6bcfcd35aa0f1709239fed979db77a8159a6",
+  "raw_count": 109,
+  "eligible_count": 66,
+  "scenario_count": 8,
+  "comparison_count": 48,
+  "scalar_scores_checked": 3120,
+  "independent_baseline_pareto_counts": {
+    "structured": 30,
+    "clarification": 22
+  },
+  "baseline_weight_vectors_checked_per_workflow": 1771,
+  "baseline_requirement_pairs_checked_per_workflow": 1071,
+  "checks": [
+    "input_hash",
+    "baseline_scores_and_all_profile_winners",
+    "scale_ranges_and_directions",
+    "pareto_preservation_and_positive_weight_optima",
+    "all_scenario_scalar_scores",
+    "baseline_pareto_first_grid_shares_and_requirement_grid",
+    "analytic_switches_and_3996_interior_path_checks",
+    "requirement_boundaries_and_failure_patterns"
+  ],
+  "outputs_sha256": {
+    "results/robustness_comparisons.csv": "04740553eedfe8cb8714e3da28999783b84dcceca1ed0c0db9a8c2a17c2bb32d",
+    "results/sensitivity_switching_paths.csv": "93d03de3aede8e74fd3bb94b00ffe3843fb5ee406f0d4cf7a572d6cbabb3608c",
+    "results/sensitivity_requirement_failures.csv": "13e856a4bd302bad97d234918b5c306883d78b8256c21d2d9a362b83b7d7cfbb",
+    "results/sensitivity_requirement_boundaries.csv": "fbe60cd52e7a02af934de5f76dbcc432717215a8644938dfb7a562a40254ae76",
+    "figures/04_preference_paths.png": "6094bca30eee96b618649a8def928639d3bb135a0cda979d1b865c854793d684"
+  },
+  "participant_review": "incomplete; no participant responses supplied",
+  "shared_code_handoff": "pending integration of Member B PR #7; shared code unchanged"
+}
